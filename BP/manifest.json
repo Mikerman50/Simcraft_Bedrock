@@ -3,7 +3,9 @@
 	"metadata": {
 		"authors": [
 			"Mikerman50."
-		]
+		],
+		"license": "MIT License",
+		"url": "https://www.planetminecraft.com/mod/simcraft-1118558/"
 	},
 	"header": {
 		"name": "Simcraft",

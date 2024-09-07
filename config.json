@@ -1,0 +1,45 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Simcraft",
+	"namespace": "bridge",
+	"authors": [
+		"Mikerman50.",
+		"Conraad13."
+	],
+	"targetVersion": "1.21.30",
+	"description": "a Mod design with creativity and realism in mind providing you with a complete new game dynamic and loads of extra building options. The mod is primarily based on HD textures lower resolutions however will be available later the lowest currently is 64bit. The concept of SimCraft is to enhance your building and mining experience and to allow you to extend your game with endless possibilities, we are really set out to keep game balance in tact and provide you with a very authentic feeling when playing with SimCraft. With SimCraft you will be able to build more types of buildings, mine more ores, have loads of decorations to add to your homes and this is only the beginning. The mod will always be well balanced, some features will be hard to craft or acquire while others will be a lot easier, but we try to keep a balance between content and usability of the item or block added.",
+	"experimentalGameplay": {
+		"creationOfCustomBiomes": false,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": true,
+		"educationEdition": false
+	},
+	"bdsProject": true,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"jsonCompactor",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Simcraft"
+				}
+			]
+		]
+	}
+}

@@ -1,0 +1,635 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"bridge:blockOre1_0": {
+		"textures": "blockOre1_0"
+	},
+	"bridge:blockOre1_1": {
+		"textures": "blockOre1_1"
+	},
+	"bridge:blockOre1_2": {
+		"textures": "blockOre1_2"
+	},
+	"bridge:blockOre1_3": {
+		"textures": "blockOre1_3"
+	},
+	"bridge:blockOre1_4": {
+		"textures": "blockOre1_4"
+	},
+	"bridge:blockOre1_5": {
+		"textures": "blockOre1_5"
+	},
+	"bridge:blockOre1_6": {
+		"textures": "blockOre1_6"
+	},
+	"bridge:blockOre1_7": {
+		"textures": "blockOre1_7"
+	},
+	"bridge:blockOre1_8": {
+		"textures": "blockOre1_8"
+	},
+	"bridge:blockOre1_9": {
+		"textures": "blockOre1_9"
+	},
+	"bridge:blockOre1_10": {
+		"textures": "blockOre1_10"
+	},
+	"bridge:blockOre1_11": {
+		"textures": "blockOre1_11"
+	},
+	"bridge:blockOre1_12": {
+		"textures": "blockOre1_12"
+	},
+	"bridge:blockOre1_13": {
+		"textures": "blockOre1_13"
+	},
+	"bridge:blockOre1_14": {
+		"textures": "blockOre1_14"
+	},
+	"bridge:blockOre1_15": {
+		"textures": "blockOre1_15"
+	},
+	"bridge:blockOre2_0": {
+		"textures": "blockOre2_0"
+	},
+	"bridge:blockOre2_1": {
+		"textures": "blockOre2_1"
+	},
+	"bridge:blockOre2_2": {
+		"textures": "blockOre2_2"
+	},
+	"bridge:blockOre2_3": {
+		"textures": "blockOre2_3"
+	},
+	"bridge:blockOre2_4": {
+		"textures": "blockOre2_4"
+	},
+	"bridge:blockOre2_5": {
+		"textures": "blockOre2_5"
+	},
+	"bridge:blockOre2_6": {
+		"textures": "blockOre2_6"
+	},
+	"bridge:blockOre2_7": {
+		"textures": "blockOre2_7"
+	},
+	"bridge:blockOre2_8": {
+		"textures": "blockOre2_8"
+	},
+	"bridge:blockOre2_9": {
+		"textures": "blockOre2_9"
+	},
+	"bridge:blockOre2_10": {
+		"textures": "blockOre2_10"
+	},
+	"bridge:blockOre2_11": {
+		"textures": "blockOre2_11"
+	},
+	"bridge:blockOre2_12": {
+		"textures": "blockOre2_12"
+	},
+	"bridge:blockOre2_13": {
+		"textures": "blockOre2_13"
+	},
+	"bridge:blockOre2_14": {
+		"textures": "blockOre2_14"
+	},
+	"bridge:blockOre2_15": {
+		"textures": "blockOre2_15"
+	},
+	"bridge:blockOre3_0": {
+		"textures": "blockOre3_0"
+	},
+	"bridge:blockOre3_1": {
+		"textures": "blockOre3_1"
+	},
+	"bridge:blockOre3_2": {
+		"textures": "blockOre3_2"
+	},
+	"bridge:blockOre3_3": {
+		"textures": "blockOre3_3"
+	},
+	"bridge:blockOre3_4": {
+		"textures": "blockOre3_4"
+	},
+	"bridge:blockOre3_5": {
+		"textures": "blockOre3_5"
+	},
+	"bridge:blockOre3_6": {
+		"textures": "blockOre3_6"
+	},
+	"bridge:blockOre3_7": {
+		"textures": "blockOre3_7"
+	},
+	"bridge:blockOre3_8": {
+		"textures": "blockOre3_8"
+	},
+	"bridge:blockOre3_9": {
+		"textures": "blockOre3_9"
+	},
+	"bridge:blockOre3_10": {
+		"textures": "blockOre3_10"
+	},
+	"bridge:blockOre3_11": {
+		"textures": "blockOre3_11"
+	},
+	"bridge:blockOre3_12": {
+		"textures": "blockOre3_12"
+	},
+	"bridge:blockOre3_13": {
+		"textures": "blockOre3_13"
+	},
+	"bridge:blockOre3_14": {
+		"textures": "blockOre3_14"
+	},
+	"bridge:blockOre3_15": {
+		"textures": "blockOre3_15"
+	},
+	"bridge:blockOre4_0": {
+		"textures": "blockOre4_0"
+	},
+	"bridge:blockOre4_1": {
+		"textures": "blockOre4_1"
+	},
+	"bridge:blockOre4_2": {
+		"textures": "blockOre4_2"
+	},
+	"bridge:blockOre4_3": {
+		"textures": "blockOre4_3"
+	},
+	"bridge:blockOre4_4": {
+		"textures": "blockOre4_4"
+	},
+	"bridge:blockOre4_5": {
+		"textures": "blockOre4_5"
+	},
+	"bridge:blockOre4_6": {
+		"textures": "blockOre4_6"
+	},
+	"bridge:blockOre4_7": {
+		"textures": "blockOre4_7"
+	},
+	"bridge:blockOre4_8": {
+		"textures": "blockOre4_8"
+	},
+	"bridge:blockOre4_9": {
+		"textures": "blockOre4_9"
+	},
+	"bridge:blockOre4_10": {
+		"textures": "blockOre4_10"
+	},
+	"bridge:blockOre4_11": {
+		"textures": "blockOre4_11"
+	},
+	"bridge:blockOre4_12": {
+		"textures": "blockOre4_12"
+	},
+	"bridge:blockOre4_13": {
+		"textures": "blockOre4_13"
+	},
+	"bridge:blockOre4_14": {
+		"textures": "blockOre4_14"
+	},
+	"bridge:blockOre4_15": {
+		"textures": "blockOre4_15"
+	},
+	"bridge:blockBricks_0": {
+		"textures": "blockBricks_0"
+	},
+	"bridge:blockBricks_1": {
+		"textures": "blockBricks_1"
+	},
+	"bridge:blockBricks_2": {
+		"textures": "blockBricks_2"
+	},
+	"bridge:blockBricks_3": {
+		"textures": "blockBricks_3"
+	},
+	"bridge:blockBricks_4": {
+		"textures": "blockBricks_4"
+	},
+	"bridge:blockBricks_5": {
+		"textures": "blockBricks_5"
+	},
+	"bridge:blockBricks_6": {
+		"textures": "blockBricks_6"
+	},
+	"bridge:blockBricks_7": {
+		"textures": "blockBricks_7"
+	},
+	"bridge:blockBricks_8": {
+		"textures": "blockBricks_8"
+	},
+	"bridge:blockBricks_9": {
+		"textures": "blockBricks_9"
+	},
+	"bridge:blockBricks_10": {
+		"textures": "blockBricks_10"
+	},
+	"bridge:blockBricks_11": {
+		"textures": "blockBricks_11"
+	},
+	"bridge:blockBricks_12": {
+		"textures": "blockBricks_12"
+	},
+	"bridge:blockBricks_13": {
+		"textures": "blockBricks_13"
+	},
+	"bridge:blockBricks_14": {
+		"textures": "blockBricks_14"
+	},
+	"bridge:blockBricks_15": {
+		"textures": "blockBricks_15"
+	},
+	"bridge:blockBricks1_0": {
+		"textures": "blockBricks1_0"
+	},
+	"bridge:blockBricks1_1": {
+		"textures": "blockBricks1_1"
+	},
+	"bridge:blockBricks1_2": {
+		"textures": "blockBricks1_2"
+	},
+	"bridge:blockBricks1_3": {
+		"textures": "blockBricks1_3"
+	},
+	"bridge:blockBricks1_4": {
+		"textures": "blockBricks1_4"
+	},
+	"bridge:blockBricks1_5": {
+		"textures": "blockBricks1_5"
+	},
+	"bridge:blockBricks1_6": {
+		"textures": "blockBricks1_6"
+	},
+	"bridge:blockBricks1_7": {
+		"textures": "blockBricks1_7"
+	},
+	"bridge:blockBricks1_8": {
+		"textures": "blockBricks1_8"
+	},
+	"bridge:blockBricks1_9": {
+		"textures": "blockBricks1_9"
+	},
+	"bridge:blockBricks1_10": {
+		"textures": "blockBricks1_10"
+	},
+	"bridge:blockBricks1_11": {
+		"textures": "blockBricks1_11"
+	},
+	"bridge:blockBricks1_12": {
+		"textures": "blockBricks1_12"
+	},
+	"bridge:blockBricks1_13": {
+		"textures": "blockBricks1_13"
+	},
+	"bridge:blockBricks1_14": {
+		"textures": "blockBricks1_14"
+	},
+	"bridge:blockBricks1_15": {
+		"textures": "blockBricks1_15"
+	},
+	"bridge:blockBricks2_0": {
+		"textures": "blockBricks2_0"
+	},
+	"bridge:blockBricks2_1": {
+		"textures": "blockBricks2_1"
+	},
+	"bridge:blockBricks2_2": {
+		"textures": "blockBricks2_2"
+	},
+	"bridge:blockBricks2_3": {
+		"textures": "blockBricks2_3"
+	},
+	"bridge:blockBricks2_4": {
+		"textures": "blockBricks2_4"
+	},
+	"bridge:blockBricks2_5": {
+		"textures": "blockBricks2_5"
+	},
+	"bridge:blockBricks2_6": {
+		"textures": "blockBricks2_6"
+	},
+	"bridge:blockBricks2_7": {
+		"textures": "blockBricks2_7"
+	},
+	"bridge:blockBricks2_8": {
+		"textures": "blockBricks2_8"
+	},
+	"bridge:blockBricks2_9": {
+		"textures": "blockBricks2_9"
+	},
+	"bridge:blockBricks2_10": {
+		"textures": "blockBricks2_10"
+	},
+	"bridge:blockBricks2_11": {
+		"textures": "blockBricks2_11"
+	},
+	"bridge:blockBricks2_12": {
+		"textures": "blockBricks2_12"
+	},
+	"bridge:blockBricks2_13": {
+		"textures": "blockBricks2_13"
+	},
+	"bridge:blockBricks2_14": {
+		"textures": "blockBricks2_14"
+	},
+	"bridge:blockBricks2_15": {
+		"textures": "blockBricks2_15"
+	},
+	"bridge:blockBricks3_0": {
+		"textures": "blockBricks3_0"
+	},
+	"bridge:blockBricks3_1": {
+		"textures": "blockBricks3_1"
+	},
+	"bridge:blockBricks3_2": {
+		"textures": "blockBricks3_2"
+	},
+	"bridge:blockBricks3_3": {
+		"textures": "blockBricks3_3"
+	},
+	"bridge:blockBricks3_4": {
+		"textures": "blockBricks3_4"
+	},
+	"bridge:blockBricks3_5": {
+		"textures": "blockBricks3_5"
+	},
+	"bridge:blockBricks3_6": {
+		"textures": "blockBricks3_6"
+	},
+	"bridge:blockBricks3_7": {
+		"textures": "blockBricks3_7"
+	},
+	"bridge:blockBricks3_8": {
+		"textures": "blockBricks3_8"
+	},
+	"bridge:blockBricks3_9": {
+		"textures": "blockBricks3_9"
+	},
+	"bridge:blockBricks3_10": {
+		"textures": "blockBricks3_10"
+	},
+	"bridge:blockBricks3_11": {
+		"textures": "blockBricks3_11"
+	},
+	"bridge:blockBricks3_12": {
+		"textures": "blockBricks3_12"
+	},
+	"bridge:blockBricks3_13": {
+		"textures": "blockBricks3_13"
+	},
+	"bridge:blockBricks3_14": {
+		"textures": "blockBricks3_14"
+	},
+	"bridge:blockBricks3_15": {
+		"textures": "blockBricks3_15"
+	},
+	"bridge:blockBricks4_0": {
+		"textures": "blockBricks4_0"
+	},
+	"bridge:blockBricks4_1": {
+		"textures": "blockBricks4_1"
+	},
+	"bridge:blockBricks4_2": {
+		"textures": "blockBricks4_2"
+	},
+	"bridge:blockBricks4_3": {
+		"textures": "blockBricks4_3"
+	},
+	"bridge:blockBricks4_4": {
+		"textures": "blockBricks4_4"
+	},
+	"bridge:blockBricks4_5": {
+		"textures": "blockBricks4_5"
+	},
+	"bridge:blockBricks4_6": {
+		"textures": "blockBricks4_6"
+	},
+	"bridge:blockBricks4_7": {
+		"textures": "blockBricks4_7"
+	},
+	"bridge:blockBricks4_8": {
+		"textures": "blockBricks4_8"
+	},
+	"bridge:blockBricks4_9": {
+		"textures": "blockBricks4_9"
+	},
+	"bridge:blockBricks4_10": {
+		"textures": "blockBricks4_10"
+	},
+	"bridge:blockBricks4_11": {
+		"textures": "blockBricks4_11"
+	},
+	"bridge:blockBricks4_12": {
+		"textures": "blockBricks4_12"
+	},
+	"bridge:blockBricks4_13": {
+		"textures": "blockBricks4_13"
+	},
+	"bridge:blockBricks4_14": {
+		"textures": "blockBricks4_14"
+	},
+	"bridge:blockBricks4_15": {
+		"textures": "blockBricks4_15"
+	},
+	"bridge:blockBricks5_0": {
+		"textures": "blockBricks5_0"
+	},
+	"bridge:blockBricks5_1": {
+		"textures": "blockBricks5_1"
+	},
+	"bridge:blockBricks5_2": {
+		"textures": "blockBricks5_2"
+	},
+	"bridge:blockBricks5_3": {
+		"textures": "blockBricks5_3"
+	},
+	"bridge:blockBricks5_4": {
+		"textures": "blockBricks5_4"
+	},
+	"bridge:blockBricks5_5": {
+		"textures": "blockBricks5_5"
+	},
+	"bridge:blockBricks5_6": {
+		"textures": "blockBricks5_6"
+	},
+	"bridge:blockBricks5_7": {
+		"textures": "blockBricks5_7"
+	},
+	"bridge:blockBricks5_8": {
+		"textures": "blockBricks5_8"
+	},
+	"bridge:blockBricks5_9": {
+		"textures": "blockBricks5_9"
+	},
+	"bridge:blockBricks5_10": {
+		"textures": "blockBricks5_10"
+	},
+	"bridge:blockBricks5_11": {
+		"textures": "blockBricks5_11"
+	},
+	"bridge:blockBricks5_12": {
+		"textures": "blockBricks5_12"
+	},
+	"bridge:blockBricks5_13": {
+		"textures": "blockBricks5_13"
+	},
+	"bridge:blockBricks5_14": {
+		"textures": "blockBricks5_14"
+	},
+	"bridge:blockBricks5_15": {
+		"textures": "blockBricks5_15"
+	},
+	"bridge:blockBricks6_0": {
+		"textures": "blockBricks6_0"
+	},
+	"bridge:blockBricks6_1": {
+		"textures": "blockBricks6_1"
+	},
+	"bridge:blockBricks6_2": {
+		"textures": "blockBricks6_2"
+	},
+	"bridge:blockBricks6_3": {
+		"textures": "blockBricks6_3"
+	},
+	"bridge:blockBricks6_4": {
+		"textures": "blockBricks6_4"
+	},
+	"bridge:blockBricks6_5": {
+		"textures": "blockBricks6_5"
+	},
+	"bridge:blockBricks6_6": {
+		"textures": "blockBricks6_6"
+	},
+	"bridge:blockBricks6_7": {
+		"textures": "blockBricks6_7"
+	},
+	"bridge:blockBricks6_8": {
+		"textures": "blockBricks6_8"
+	},
+	"bridge:blockBricks6_9": {
+		"textures": "blockBricks6_9"
+	},
+	"bridge:blockBricks6_10": {
+		"textures": "blockBricks6_10"
+	},
+	"bridge:blockBricks6_11": {
+		"textures": "blockBricks6_11"
+	},
+	"bridge:blockBricks6_12": {
+		"textures": "blockBricks6_12"
+	},
+	"bridge:blockBricks6_13": {
+		"textures": "blockBricks6_13"
+	},
+	"bridge:blockBricks6_14": {
+		"textures": "blockBricks6_14"
+	},
+	"bridge:blockBricks6_15": {
+		"textures": "blockBricks6_15"
+	},
+	"bridge:blockBricks7_0": {
+		"textures": "blockBricks7_0"
+	},
+	"bridge:blockBricks7_1": {
+		"textures": "blockBricks7_1"
+	},
+	"bridge:blockBricks7_2": {
+		"textures": "blockBricks7_2"
+	},
+	"bridge:blockBricks7_3": {
+		"textures": "blockBricks7_3"
+	},
+	"bridge:blockBricks7_4": {
+		"textures": "blockBricks7_4"
+	},
+	"bridge:blockBricks7_5": {
+		"textures": "blockBricks7_5"
+	},
+	"bridge:blockBricks7_6": {
+		"textures": "blockBricks7_6"
+	},
+	"bridge:blockBricks7_7": {
+		"textures": "blockBricks7_7"
+	},
+	"bridge:blockBricks7_8": {
+		"textures": "blockBricks7_8"
+	},
+	"bridge:blockBricks7_9": {
+		"textures": "blockBricks7_9"
+	},
+	"bridge:blockBricks7_10": {
+		"textures": "blockBricks7_10"
+	},
+	"bridge:blockBricks7_11": {
+		"textures": "blockBricks7_11"
+	},
+	"bridge:blockBricks7_12": {
+		"textures": "blockBricks7_12"
+	},
+	"bridge:blockBricks7_13": {
+		"textures": "blockBricks7_13"
+	},
+	"bridge:blockBricks7_14": {
+		"textures": "blockBricks7_14"
+	},
+	"bridge:blockBricks7_15": {
+		"textures": "blockBricks7_15"
+	},
+	"bridge:blockmarbleStones_0": {
+		"textures": "blockmarbleStones_0"
+	},
+	"bridge:blockmarbleStones_1": {
+		"textures": "blockmarbleStones_1"
+	},
+	"bridge:blockmarbleStones_2": {
+		"textures": "blockmarbleStones_2"
+	},
+	"bridge:blockmarbleStones_3": {
+		"textures": "blockmarbleStones_3"
+	},
+	"bridge:blockmarbleStones_4": {
+		"textures": "blockmarbleStones_4"
+	},
+	"bridge:blockmarbleStones_5": {
+		"textures": "blockmarbleStones_5"
+	},
+	"bridge:blockmarbleStones_6": {
+		"textures": "blockmarbleStones_6"
+	},
+	"bridge:blockmarbleStones_7": {
+		"textures": "blockmarbleStones_7"
+	},
+	"bridge:blockmarbleStones_8": {
+		"textures": "blockmarbleStones_8"
+	},
+	"bridge:blockmarbleStones_9": {
+		"textures": "blockmarbleStones_9"
+	},
+	"bridge:blockmarbleStones_10": {
+		"textures": "blockmarbleStones_10"
+	},
+	"bridge:blockmarbleStones_11": {
+		"textures": "blockmarbleStones_11"
+	},
+	"bridge:blockmarbleStones_12": {
+		"textures": "blockmarbleStones_12"
+	},
+	"bridge:blockmarbleStones_13": {
+		"textures": "blockmarbleStones_13"
+	},
+	"bridge:blockmarbleStones_14": {
+		"textures": "blockmarbleStones_14"
+	},
+	"bridge:blockmarbleStones_15": {
+		"textures": "blockmarbleStones_15"
+	},
+	"bridge:blockFlowers_0": {
+		"textures": "blockFlowers_0"
+	}
+}
+}

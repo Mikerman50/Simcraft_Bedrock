@@ -1,0 +1,44 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Mikerman50."
+		]
+	},
+	"header": {
+		"name": "Simcraft",
+		"description": "a Mod design with creativity and realism in mind providing you with a complete new game dynamic and loads of extra building options. The mod is primarily based on HD textures lower resolutions however will be available later the lowest currently is 64bit. The concept of SimCraft is to enhance your building and mining experience and to allow you to extend your game with endless possibilities, we are really set out to keep game balance in tact and provide you with a very authentic feeling when playing with SimCraft. With SimCraft you will be able to build more types of buildings, mine more ores, have loads of decorations to add to your homes and this is only the beginning. The mod will always be well balanced, some features will be hard to craft or acquire while others will be a lot easier, but we try to keep a balance between content and usability of the item or block added.",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "c502e0a2-a9e6-4620-97d7-e98bc2ee74c2",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "c12a9928-f328-4d4d-8f79-cda027472e2c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "866a16f9-ec6a-4410-8060-91f92025a351",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

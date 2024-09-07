@@ -1,0 +1,635 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Simcraft",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"blockore1_0": {
+			"textures": "textures/blocks/ore/blockOre1_0"
+		},
+		"blockOre1_1": {
+			"textures": "textures/blocks/ore/blockOre1_1"
+		},
+		"blockOre1_2": {
+			"textures": "textures/blocks/ore/blockOre1_2"
+		},
+		"blockOre1_3": {
+			"textures": "textures/blocks/ore/blockOre1_3"
+		},
+		"blockOre1_4": {
+			"textures": "textures/blocks/ore/blockOre1_4"
+		},
+		"blockOre1_5": {
+			"textures": "textures/blocks/ore/blockOre1_5"
+		},
+		"blockOre1_6": {
+			"textures": "textures/blocks/ore/blockOre1_6"
+		},
+		"blockOre1_7": {
+			"textures": "textures/blocks/ore/blockOre1_7"
+		},
+		"blockOre1_8": {
+			"textures": "textures/blocks/ore/blockOre1_8"
+		},
+		"blockOre1_9": {
+			"textures": "textures/blocks/ore/blockOre1_9"
+		},
+		"blockOre1_10": {
+			"textures": "textures/blocks/ore/blockOre1_10"
+		},
+		"blockOre1_11": {
+			"textures": "textures/blocks/ore/blockOre1_11"
+		},
+		"blockOre1_12": {
+			"textures": "textures/blocks/ore/blockOre1_12"
+		},
+		"blockOre1_13": {
+			"textures": "textures/blocks/ore/blockOre1_13"
+		},
+		"blockOre1_14": {
+			"textures": "textures/blocks/ore/blockOre1_14"
+		},
+		"blockOre1_15": {
+			"textures": "textures/blocks/ore/blockOre1_15"
+		},
+		"blockOre2_0": {
+			"textures": "textures/blocks/ore/blockOre2_0"
+		},
+		"blockOre2_1": {
+			"textures": "textures/blocks/ore/blockOre2_1"
+		},
+		"blockOre2_2": {
+			"textures": "textures/blocks/ore/blockOre2_2"
+		},
+		"blockOre2_3": {
+			"textures": "textures/blocks/ore/blockOre2_3"
+		},
+		"blockOre2_4": {
+			"textures": "textures/blocks/ore/blockOre2_4"
+		},
+		"blockOre2_5": {
+			"textures": "textures/blocks/ore/blockOre2_5"
+		},
+		"blockOre2_6": {
+			"textures": "textures/blocks/ore/blockOre2_6"
+		},
+		"blockOre2_7": {
+			"textures": "textures/blocks/ore/blockOre2_7"
+		},
+		"blockOre2_8": {
+			"textures": "textures/blocks/ore/blockOre2_8"
+		},
+		"blockOre2_9": {
+			"textures": "textures/blocks/ore/blockOre2_9"
+		},
+		"blockOre2_10": {
+			"textures": "textures/blocks/ore/blockOre2_10"
+		},
+		"blockOre2_11": {
+			"textures": "textures/blocks/ore/blockOre2_11"
+		},
+		"blockOre2_12": {
+			"textures": "textures/blocks/ore/blockOre2_12"
+		},
+		"blockOre2_13": {
+			"textures": "textures/blocks/ore/blockOre2_13"
+		},
+		"blockOre2_14": {
+			"textures": "textures/blocks/ore/blockOre2_14"
+		},
+		"blockOre2_15": {
+			"textures": "textures/blocks/ore/blockOre2_15"
+		},
+		"blockOre3_0": {
+			"textures": "textures/blocks/ore/blockOre3_0"
+		},
+		"blockOre3_1": {
+			"textures": "textures/blocks/ore/blockOre3_1"
+		},
+		"blockOre3_2": {
+			"textures": "textures/blocks/ore/blockOre3_2"
+		},
+		"blockOre3_3": {
+			"textures": "textures/blocks/ore/blockOre3_3"
+		},
+		"blockOre3_4": {
+			"textures": "textures/blocks/ore/blockOre3_4"
+		},
+		"blockOre3_5": {
+			"textures": "textures/blocks/ore/blockOre3_5"
+		},
+		"blockOre3_6": {
+			"textures": "textures/blocks/ore/blockOre3_6"
+		},
+		"blockOre3_7": {
+			"textures": "textures/blocks/ore/blockOre3_7"
+		},
+		"blockOre3_8": {
+			"textures": "textures/blocks/ore/blockOre3_8"
+		},
+		"blockOre3_9": {
+			"textures": "textures/blocks/ore/blockOre3_9"
+		},
+		"blockOre3_10": {
+			"textures": "textures/blocks/ore/blockOre3_10"
+		},
+		"blockOre3_11": {
+			"textures": "textures/blocks/ore/blockOre3_11"
+		},
+		"blockOre3_12": {
+			"textures": "textures/blocks/ore/blockOre3_12"
+		},
+		"blockOre3_13": {
+			"textures": "textures/blocks/ore/blockOre3_13"
+		},
+		"blockOre3_14": {
+			"textures": "textures/blocks/ore/blockOre3_14"
+		},
+		"blockOre3_15": {
+			"textures": "textures/blocks/ore/blockOre3_15"
+		},
+		"blockOre4_0": {
+			"textures": "textures/blocks/ore/blockOre4_0"
+		},
+		"blockOre4_1": {
+			"textures": "textures/blocks/ore/blockOre4_1"
+		},
+		"blockOre4_2": {
+			"textures": "textures/blocks/ore/blockOre4_2"
+		},
+		"blockOre4_3": {
+			"textures": "textures/blocks/ore/blockOre4_3"
+		},
+		"blockOre4_4": {
+			"textures": "textures/blocks/ore/blockOre4_4"
+		},
+		"blockOre4_5": {
+			"textures": "textures/blocks/ore/blockOre4_5"
+		},
+		"blockOre4_6": {
+			"textures": "textures/blocks/ore/blockOre4_6"
+		},
+		"blockOre4_7": {
+			"textures": "textures/blocks/ore/blockOre4_7"
+		},
+		"blockOre4_8": {
+			"textures": "textures/blocks/ore/blockOre4_8"
+		},
+		"blockOre4_9": {
+			"textures": "textures/blocks/ore/blockOre4_9"
+		},
+		"blockOre4_10": {
+			"textures": "textures/blocks/ore/blockOre4_10"
+		},
+		"blockOre4_11": {
+			"textures": "textures/blocks/ore/blockOre4_11"
+		},
+		"blockOre4_12": {
+			"textures": "textures/blocks/ore/blockOre4_12"
+		},
+		"blockOre4_13": {
+			"textures": "textures/blocks/ore/blockOre4_13"
+		},
+		"blockOre4_14": {
+			"textures": "textures/blocks/ore/blockOre4_14"
+		},
+		"blockOre4_15": {
+			"textures": "textures/blocks/ore/blockOre4_15"
+		},
+		"blockBricks_0": {
+			"textures": "textures/blocks/bricks/blockBricks_0"
+		},
+		"blockBricks_1": {
+			"textures": "textures/blocks/bricks/blockBricks_1"
+		},
+		"blockBricks_2": {
+			"textures": "textures/blocks/bricks/blockBricks_2"
+		},
+		"blockBricks_3": {
+			"textures": "textures/blocks/bricks/blockBricks_3"
+		},
+		"blockBricks_4": {
+			"textures": "textures/blocks/bricks/blockBricks_4"
+		},
+		"blockBricks_5": {
+			"textures": "textures/blocks/bricks/blockBricks_5"
+		},
+		"blockBricks_6": {
+			"textures": "textures/blocks/bricks/blockBricks_6"
+		},
+		"blockBricks_7": {
+			"textures": "textures/blocks/bricks/blockBricks_7"
+		},
+		"blockBricks_8": {
+			"textures": "textures/blocks/bricks/blockBricks_8"
+		},
+		"blockBricks_9": {
+			"textures": "textures/blocks/bricks/blockBricks_9"
+		},
+		"blockBricks_10": {
+			"textures": "textures/blocks/bricks/blockBricks_10"
+		},
+		"blockBricks_11": {
+			"textures": "textures/blocks/bricks/blockBricks_11"
+		},
+		"blockBricks_12": {
+			"textures": "textures/blocks/bricks/blockBricks_12"
+		},
+		"blockBricks_13": {
+			"textures": "textures/blocks/bricks/blockBricks_13"
+		},
+		"blockBricks_14": {
+			"textures": "textures/blocks/bricks/blockBricks_14"
+		},
+		"blockBricks_15": {
+			"textures": "textures/blocks/bricks/blockBricks_15"
+		},
+		"blockBricks1_0": {
+			"textures": "textures/blocks/bricks/blockBricks1_0"
+		},
+		"blockBricks1_1": {
+			"textures": "textures/blocks/bricks/blockBricks1_1"
+		},
+		"blockBricks1_2": {
+			"textures": "textures/blocks/bricks/blockBricks1_2"
+		},
+		"blockBricks1_3": {
+			"textures": "textures/blocks/bricks/blockBricks1_3"
+		},
+		"blockBricks1_4": {
+			"textures": "textures/blocks/bricks/blockBricks1_4"
+		},
+		"blockBricks1_5": {
+			"textures": "textures/blocks/bricks/blockBricks1_5"
+		},
+		"blockBricks1_6": {
+			"textures": "textures/blocks/bricks/blockBricks1_6"
+		},
+		"blockBricks1_7": {
+			"textures": "textures/blocks/bricks/blockBricks1_7"
+		},
+		"blockBricks1_8": {
+			"textures": "textures/blocks/bricks/blockBricks1_8"
+		},
+		"blockBricks1_9": {
+			"textures": "textures/blocks/bricks/blockBricks1_9"
+		},
+		"blockBricks1_10": {
+			"textures": "textures/blocks/bricks/blockBricks1_10"
+		},
+		"blockBricks1_11": {
+			"textures": "textures/blocks/bricks/blockBricks1_11"
+		},
+		"blockBricks1_12": {
+			"textures": "textures/blocks/bricks/blockBricks1_12"
+		},
+		"blockBricks1_13": {
+			"textures": "textures/blocks/bricks/blockBricks1_13"
+		},
+		"blockBricks1_14": {
+			"textures": "textures/blocks/bricks/blockBricks1_14"
+		},
+		"blockBricks1_15": {
+			"textures": "textures/blocks/bricks/blockBricks1_15"
+		},
+		"blockBricks2_0": {
+			"textures": "textures/blocks/bricks/blockBricks2_0"
+		},
+		"blockBricks2_1": {
+			"textures": "textures/blocks/bricks/blockBricks2_1"
+		},
+		"blockBricks2_2": {
+			"textures": "textures/blocks/bricks/blockBricks2_2"
+		},
+		"blockBricks2_3": {
+			"textures": "textures/blocks/bricks/blockBricks2_3"
+		},
+		"blockBricks2_4": {
+			"textures": "textures/blocks/bricks/blockBricks2_4"
+		},
+		"blockBricks2_5": {
+			"textures": "textures/blocks/bricks/blockBricks2_5"
+		},
+		"blockBricks2_6": {
+			"textures": "textures/blocks/bricks/blockBricks2_6"
+		},
+		"blockBricks2_7": {
+			"textures": "textures/blocks/bricks/blockBricks2_7"
+		},
+		"blockBricks2_8": {
+			"textures": "textures/blocks/bricks/blockBricks2_8"
+		},
+		"blockBricks2_9": {
+			"textures": "textures/blocks/bricks/blockBricks2_9"
+		},
+		"blockBricks2_10": {
+			"textures": "textures/blocks/bricks/blockBricks2_10"
+		},
+		"blockBricks2_11": {
+			"textures": "textures/blocks/bricks/blockBricks2_11"
+		},
+		"blockBricks2_12": {
+			"textures": "textures/blocks/bricks/blockBricks2_12"
+		},
+		"blockBricks2_13": {
+			"textures": "textures/blocks/bricks/blockBricks2_13"
+		},
+		"blockBricks2_14": {
+			"textures": "textures/blocks/bricks/blockBricks2_14"
+		},
+		"blockBricks2_15": {
+			"textures": "textures/blocks/bricks/blockBricks2_15"
+		},
+		"blockBricks3_0": {
+			"textures": "textures/blocks/bricks/blockBricks3_0"
+		},
+		"blockBricks3_1": {
+			"textures": "textures/blocks/bricks/blockBricks3_1"
+		},
+		"blockBricks3_2": {
+			"textures": "textures/blocks/bricks/blockBricks3_2"
+		},
+		"blockBricks3_3": {
+			"textures": "textures/blocks/bricks/blockBricks3_3"
+		},
+		"blockBricks3_4": {
+			"textures": "textures/blocks/bricks/blockBricks3_4"
+		},
+		"blockBricks3_5": {
+			"textures": "textures/blocks/bricks/blockBricks3_5"
+		},
+		"blockBricks3_6": {
+			"textures": "textures/blocks/bricks/blockBricks3_6"
+		},
+		"blockBricks3_7": {
+			"textures": "textures/blocks/bricks/blockBricks3_7"
+		},
+		"blockBricks3_8": {
+			"textures": "textures/blocks/bricks/blockBricks3_8"
+		},
+		"blockBricks3_9": {
+			"textures": "textures/blocks/bricks/blockBricks3_9"
+		},
+		"blockBricks3_10": {
+			"textures": "textures/blocks/bricks/blockBricks3_10"
+		},
+		"blockBricks3_11": {
+			"textures": "textures/blocks/bricks/blockBricks3_11"
+		},
+		"blockBricks3_12": {
+			"textures": "textures/blocks/bricks/blockBricks3_12"
+		},
+		"blockBricks3_13": {
+			"textures": "textures/blocks/bricks/blockBricks3_13"
+		},
+		"blockBricks3_14": {
+			"textures": "textures/blocks/bricks/blockBricks3_14"
+		},
+		"blockBricks3_15": {
+			"textures": "textures/blocks/bricks/blockBricks3_15"
+		},
+		"blockBricks4_0": {
+			"textures": "textures/blocks/bricks/blockBricks4_0"
+		},
+		"blockBricks4_1": {
+			"textures": "textures/blocks/bricks/blockBricks4_1"
+		},
+		"blockBricks4_2": {
+			"textures": "textures/blocks/bricks/blockBricks4_2"
+		},
+		"blockBricks4_3": {
+			"textures": "textures/blocks/bricks/blockBricks4_3"
+		},
+		"blockBricks4_4": {
+			"textures": "textures/blocks/bricks/blockBricks4_4"
+		},
+		"blockBricks4_5": {
+			"textures": "textures/blocks/bricks/blockBricks4_5"
+		},
+		"blockBricks4_6": {
+			"textures": "textures/blocks/bricks/blockBricks4_6"
+		},
+		"blockBricks4_7": {
+			"textures": "textures/blocks/bricks/blockBricks4_7"
+		},
+		"blockBricks4_8": {
+			"textures": "textures/blocks/bricks/blockBricks4_8"
+		},
+		"blockBricks4_9": {
+			"textures": "textures/blocks/bricks/blockBricks4_9"
+		},
+		"blockBricks4_10": {
+			"textures": "textures/blocks/bricks/blockBricks4_10"
+		},
+		"blockBricks4_11": {
+			"textures": "textures/blocks/bricks/blockBricks4_11"
+		},
+		"blockBricks4_12": {
+			"textures": "textures/blocks/bricks/blockBricks4_12"
+		},
+		"blockBricks4_13": {
+			"textures": "textures/blocks/bricks/blockBricks4_13"
+		},
+		"blockBricks4_14": {
+			"textures": "textures/blocks/bricks/blockBricks4_14"
+		},
+		"blockBricks4_15": {
+			"textures": "textures/blocks/bricks/blockBricks4_15"
+		},
+		"blockBricks5_0": {
+			"textures": "textures/blocks/bricks/blockBricks5_0"
+		},
+		"blockBricks5_1": {
+			"textures": "textures/blocks/bricks/blockBricks5_1"
+		},
+		"blockBricks5_2": {
+			"textures": "textures/blocks/bricks/blockBricks5_2"
+		},
+		"blockBricks5_3": {
+			"textures": "textures/blocks/bricks/blockBricks5_3"
+		},
+		"blockBricks5_4": {
+			"textures": "textures/blocks/bricks/blockBricks5_4"
+		},
+		"blockBricks5_5": {
+			"textures": "textures/blocks/bricks/blockBricks5_5"
+		},
+		"blockBricks5_6": {
+			"textures": "textures/blocks/bricks/blockBricks5_6"
+		},
+		"blockBricks5_7": {
+			"textures": "textures/blocks/bricks/blockBricks5_7"
+		},
+		"blockBricks5_8": {
+			"textures": "textures/blocks/bricks/blockBricks5_8"
+		},
+		"blockBricks5_9": {
+			"textures": "textures/blocks/bricks/blockBricks5_9"
+		},
+		"blockBricks5_10": {
+			"textures": "textures/blocks/bricks/blockBricks5_10"
+		},
+		"blockBricks5_11": {
+			"textures": "textures/blocks/bricks/blockBricks5_11"
+		},
+		"blockBricks5_12": {
+			"textures": "textures/blocks/bricks/blockBricks5_12"
+		},
+		"blockBricks5_13": {
+			"textures": "textures/blocks/bricks/blockBricks5_13"
+		},
+		"blockBricks5_14": {
+			"textures": "textures/blocks/bricks/blockBricks5_14"
+		},
+		"blockBricks5_15": {
+			"textures": "textures/blocks/bricks/blockBricks5_15"
+		},
+		"blockBricks6_0": {
+			"textures": "textures/blocks/bricks/blockBricks6_0"
+		},
+		"blockBricks6_1": {
+			"textures": "textures/blocks/bricks/blockBricks6_1"
+		},
+		"blockBricks6_2": {
+			"textures": "textures/blocks/bricks/blockBricks6_2"
+		},
+		"blockBricks6_3": {
+			"textures": "textures/blocks/bricks/blockBricks6_3"
+		},
+		"blockBricks6_4": {
+			"textures": "textures/blocks/bricks/blockBricks6_4"
+		},
+		"blockBricks6_5": {
+			"textures": "textures/blocks/bricks/blockBricks6_5"
+		},
+		"blockBricks6_6": {
+			"textures": "textures/blocks/bricks/blockBricks6_6"
+		},
+		"blockBricks6_7": {
+			"textures": "textures/blocks/bricks/blockBricks6_7"
+		},
+		"blockBricks6_8": {
+			"textures": "textures/blocks/bricks/blockBricks6_8"
+		},
+		"blockBricks6_9": {
+			"textures": "textures/blocks/bricks/blockBricks6_9"
+		},
+		"blockBricks6_10": {
+			"textures": "textures/blocks/bricks/blockBricks6_10"
+		},
+		"blockBricks6_11": {
+			"textures": "textures/blocks/bricks/blockBricks6_11"
+		},
+		"blockBricks6_12": {
+			"textures": "textures/blocks/bricks/blockBricks6_12"
+		},
+		"blockBricks6_13": {
+			"textures": "textures/blocks/bricks/blockBricks6_13"
+		},
+		"blockBricks6_14": {
+			"textures": "textures/blocks/bricks/blockBricks6_14"
+		},
+		"blockBricks6_15": {
+			"textures": "textures/blocks/bricks/blockBricks6_15"
+		},
+		"blockBricks7_0": {
+			"textures": "textures/blocks/bricks/blockBricks7_0"
+		},
+		"blockBricks7_1": {
+			"textures": "textures/blocks/bricks/blockBricks7_1"
+		},
+		"blockBricks7_2": {
+			"textures": "textures/blocks/bricks/blockBricks7_2"
+		},
+		"blockBricks7_3": {
+			"textures": "textures/blocks/bricks/blockBricks7_3"
+		},
+		"blockBricks7_4": {
+			"textures": "textures/blocks/bricks/blockBricks7_4"
+		},
+		"blockBricks7_5": {
+			"textures": "textures/blocks/bricks/blockBricks7_5"
+		},
+		"blockBricks7_6": {
+			"textures": "textures/blocks/bricks/blockBricks7_6"
+		},
+		"blockBricks7_7": {
+			"textures": "textures/blocks/bricks/blockBricks7_7"
+		},
+		"blockBricks7_8": {
+			"textures": "textures/blocks/bricks/blockBricks7_8"
+		},
+		"blockBricks7_9": {
+			"textures": "textures/blocks/bricks/blockBricks7_9"
+		},
+		"blockBricks7_10": {
+			"textures": "textures/blocks/bricks/blockBricks7_10"
+		},
+		"blockBricks7_11": {
+			"textures": "textures/blocks/bricks/blockBricks7_11"
+		},
+		"blockBricks7_12": {
+			"textures": "textures/blocks/bricks/blockBricks7_12"
+		},
+		"blockBricks7_13": {
+			"textures": "textures/blocks/bricks/blockBricks7_13"
+		},
+		"blockBricks7_14": {
+			"textures": "textures/blocks/bricks/blockBricks7_14"
+		},
+		"blockBricks7_15": {
+			"textures": "textures/blocks/bricks/blockBricks7_15"
+		},
+		"blockmarbleStones_0": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_0"
+		},
+		"blockmarbleStones_1": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_1"
+		},
+		"blockmarbleStones_2": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_2"
+		},
+		"blockmarbleStones_3": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_3"
+		},
+		"blockmarbleStones_4": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_4"
+		},
+		"blockmarbleStones_5": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_5"
+		},
+		"blockmarbleStones_6": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_6"
+		},
+		"blockmarbleStones_7": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_7"
+		},
+		"blockmarbleStones_8": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_8"
+		},
+		"blockmarbleStones_9": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_9"
+		},
+		"blockmarbleStones_10": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_10"
+		},
+		"blockmarbleStones_11": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_11"
+		},
+		"blockmarbleStones_12": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_12"
+		},
+		"blockmarbleStones_13": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_13"
+		},
+		"blockmarbleStones_14": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_14"
+		},
+		"blockmarbleStones_15": {
+			"textures": "textures/blocks/marblestone/blockmarbleStones_15"
+		},
+		"blockFlowers_0": {
+			"textures": "textures/blocks/flowers/blockFlowers_0"
+		}
+	}
+}

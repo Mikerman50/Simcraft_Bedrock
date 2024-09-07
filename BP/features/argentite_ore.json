@@ -1,0 +1,29 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:ore_feature": {
+		"description": {
+			"identifier": "bridge:argentite_ore"
+		},
+		"count": 12,
+		"replace_rules": [
+			{
+				"places_block": "brige:blockore1_0",
+				"may_replace": [
+					"minecraft:stone"
+				]
+			},
+			{
+				"places_block": "bridge:blockore1_0",
+				"may_replace": [
+					"minecraft:granite"
+				]
+			},
+			{
+				"places_block": "bridge:blockore1_0",
+				"may_replace": [
+					"minecraft:andesite"
+				]
+			}
+		]
+	}
+}

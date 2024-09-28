@@ -630,6 +630,50 @@
 	},
 	"bridge:blockFlowers_0": {
 		"textures": "blockFlowers_0"
+	},
+	"bridge:blockFlowers_1": {
+		"textures": "blockFlowers_1"
+	},
+	"bridge:blockFlowers_2": {
+		"textures": "blockFlowers_2"
+	},
+	"bridge:blockFlowers_3": {
+		"textures": "blockFlowers_3"
+	},
+	"bridge:blockFlowers_4": {
+		"textures": "blockFlowers_4"
+	},
+	"bridge:blockFlowers_5": {
+		"textures": "blockFlowers_5"
+	},
+	"bridge:blockFlowers_6": {
+		"textures": "blockFlowers_6"
+	},
+	"bridge:blockFlowers_7": {
+		"textures": "blockFlowers_7"
+	},
+	"bridge:blockFlowers_8": {
+		"textures": "blockFlowers_8"
+	},
+	"bridge:blockFlowers_9": {
+		"textures": "blockFlowers_9"
+	},
+	"bridge:blockFlowers_10": {
+		"textures": "blockFlowers_10"
+	},
+	"bridge:blockFlowers_11": {
+		"textures": "blockFlowers_11"
+	},
+	"bridge:blockFlowers_12": {
+		"textures": "blockFlowers_12"
+	},
+	"bridge:blockFlowers_13": {
+		"textures": "blockFlowers_13"
+	},
+	"bridge:blockFlowers_14": {
+		"textures": "blockFlowers_14"
+	},
+	"bridge:blockFlowers_15": {
+		"textures": "blockFlowers_15"
 	}
-}
 }

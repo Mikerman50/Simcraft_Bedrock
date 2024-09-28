@@ -2,7 +2,7 @@
   "format_version": "1.20.20",
   "minecraft:block": {
     "description": {
-      "identifier": "bridge:blockFlowers_0",
+      "identifier": "bridge:blockFlowers_15",
       "menu_category": {
         "category": "nature",
         "group": "itemGroup.name.flower"
@@ -16,7 +16,7 @@
       "minecraft:geometry": "geometry.flower",
       "minecraft:material_instances": {
         "*": {
-          "texture": "blockFlowers_0",
+          "texture": "blockFlowers_15",
           "render_method": "alpha_test",
           "face_dimming": false,
           "ambient_occlusion": false

@@ -4,7 +4,7 @@
 	"resource_pack_name": "Simcraft",
 	"texture_name": "atlas.terrain",
 	"texture_data": {
-		"blockore1_0": {
+		"blockOre1_0": {
 			"textures": "textures/blocks/ore/blockOre1_0"
 		},
 		"blockOre1_1": {
@@ -630,6 +630,51 @@
 		},
 		"blockFlowers_0": {
 			"textures": "textures/blocks/flowers/blockFlowers_0"
+		},
+		"blockFlowers_1": {
+			"textures": "textures/blocks/flowers/blockFlowers_1"
+		},
+		"blockFlowers_2": {
+			"textures": "textures/blocks/flowers/blockFlowers_2"
+		},
+		"blockFlowers_3": {
+			"textures": "textures/blocks/flowers/blockFlowers_3"
+		},
+		"blockFlowers_4": {
+			"textures": "textures/blocks/flowers/blockFlowers_4"
+		},
+		"blockFlowers_5": {
+			"textures": "textures/blocks/flowers/blockFlowers_5"
+		},
+		"blockFlowers_6": {
+			"textures": "textures/blocks/flowers/blockFlowers_6"
+		},
+		"blockFlowers_7": {
+			"textures": "textures/blocks/flowers/blockFlowers_7"
+		},
+		"blockFlowers_8": {
+			"textures": "textures/blocks/flowers/blockFlowers_8"
+		},
+		"blockFlowers_9": {
+			"textures": "textures/blocks/flowers/blockFlowers_9"
+		},
+		"blockFlowers_10": {
+			"textures": "textures/blocks/flowers/blockFlowers_10"
+		},
+		"blockFlowers_11": {
+			"textures": "textures/blocks/flowers/blockFlowers_11"
+		},
+		"blockFlowers_12": {
+			"textures": "textures/blocks/flowers/blockFlowers_12"
+		},
+		"blockFlowers_13": {
+			"textures": "textures/blocks/flowers/blockFlowers_13"
+		},
+		"blockFlowers_14": {
+			"textures": "textures/blocks/flowers/blockFlowers_14"
+		},
+		"blockFlowers_15": {
+			"textures": "textures/blocks/flowers/blockFlowers_15"
 		}
 	}
 }

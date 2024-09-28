@@ -222,3 +222,8 @@ tile.bridge:blockflowers_12.name=Red Daisy
 tile.bridge:blockflowers_13.name=African Daisy
 tile.bridge:blockflowers_14.name=Lacustrine
 tile.bridge:blockflowers_15.name=Swamp Lantern
+
+item.bridge:crown_helmet=Crown Helmet
+item.bridge:crown_chestplate=Crown Chestplate
+item.bridge:crown_leggings=Crown Leggings
+item.bridge:crown_boots=Crown Boots

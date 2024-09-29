@@ -675,6 +675,198 @@
 		},
 		"blockFlowers_15": {
 			"textures": "textures/blocks/flowers/blockFlowers_15"
+		},
+		"blockFlowers1_0": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_0"
+		},
+		"blockFlowers1_1": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_1"
+		},
+		"blockFlowers1_2": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_2"
+		},
+		"blockFlowers1_3": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_3"
+		},
+		"blockFlowers1_4": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_4"
+		},
+		"blockFlowers1_5": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_5"
+		},
+		"blockFlowers1_6": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_6"
+		},
+		"blockFlowers1_7": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_7"
+		},
+		"blockFlowers1_8": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_8"
+		},
+		"blockFlowers1_9": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_9"
+		},
+		"blockFlowers1_10": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_10"
+		},
+		"blockFlowers1_11": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_11"
+		},
+		"blockFlowers1_12": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_12"
+		},
+		"blockFlowers1_13": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_13"
+		},
+		"blockFlowers1_14": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_14"
+		},
+		"blockFlowers1_15": {
+			"textures": "textures/blocks/flowers/BlockFlowers1_15"
+		},
+		"blockFlowers2_0": {
+			"textures": "textures/blocks/flowers/blockFlowers2_0"
+		},
+		"blockFlowers2_1": {
+			"textures": "textures/blocks/flowers/blockFlowers2_1"
+		},
+		"blockFlowers2_2": {
+			"textures": "textures/blocks/flowers/blockFlowers2_2"
+		},
+		"blockFlowers2_3": {
+			"textures": "textures/blocks/flowers/blockFlowers2_3"
+		},
+		"blockFlowers2_4": {
+			"textures": "textures/blocks/flowers/blockFlowers2_4"
+		},
+		"blockFlowers2_5": {
+			"textures": "textures/blocks/flowers/blockFlowers2_5"
+		},
+		"blockFlowers2_6": {
+			"textures": "textures/blocks/flowers/blockFlowers2_6"
+		},
+		"blockFlowers2_7": {
+			"textures": "textures/blocks/flowers/blockFlowers2_7"
+		},
+		"blockFlowers2_8": {
+			"textures": "textures/blocks/flowers/blockFlowers2_8"
+		},
+		"blockFlowers2_9": {
+			"textures": "textures/blocks/flowers/blockFlowers2_9"
+		},
+		"blockFlowers2_10": {
+			"textures": "textures/blocks/flowers/blockFlowers2_10"
+		},
+		"blockFlowers2_11": {
+			"textures": "textures/blocks/flowers/blockFlowers2_11"
+		},
+		"blockFlowers2_12": {
+			"textures": "textures/blocks/flowers/blockFlowers2_12"
+		},
+		"blockFlowers2_13": {
+			"textures": "textures/blocks/flowers/blockFlowers2_13"
+		},
+		"blockFlowers2_14": {
+			"textures": "textures/blocks/flowers/blockFlowers2_14"
+		},
+		"blockFlowers2_15": {
+			"textures": "textures/blocks/flowers/blockFlowers2_15"
+		},
+		"blockWoods1_0": {
+			"textures": "textures/blocks/woods/blockWoods1_0"
+		},
+		"blockWoods1_1": {
+			"textures": "textures/blocks/woods/blockWoods1_1"
+		},
+		"blockWoods1_2": {
+			"textures": "textures/blocks/woods/blockWoods1_2"
+		},
+		"blockWoods1_3": {
+			"textures": "textures/blocks/woods/blockWoods1_3"
+		},
+		"blockWoods1_4": {
+			"textures": "textures/blocks/woods/blockWoods1_4"
+		},
+		"blockWoods1_5": {
+			"textures": "textures/blocks/woods/blockWoods1_5"
+		},
+		"blockWoods1_6": {
+			"textures": "textures/blocks/woods/blockWoods1_6"
+		},
+		"blockWoods1_7": {
+			"textures": "textures/blocks/woods/blockWoods1_7"
+		},
+		"blockWoods1_8": {
+			"textures": "textures/blocks/woods/blockWoods1_8"
+		},
+		"blockWoods1_9": {
+			"textures": "textures/blocks/woods/blockWoods1_9"
+		},
+		"blockWoods1_10": {
+			"textures": "textures/blocks/woods/blockWoods1_10"
+		},
+		"blockWoods1_11": {
+			"textures": "textures/blocks/woods/blockWoods1_11"
+		},
+		"blockWoods1_12": {
+			"textures": "textures/blocks/woods/blockWoods1_12"
+		},
+		"blockWoods1_13": {
+			"textures": "textures/blocks/woods/blockWoods1_13"
+		},
+		"blockWoods1_14": {
+			"textures": "textures/blocks/woods/blockWoods1_14"
+		},
+		"blockWoods1_15": {
+			"textures": "textures/blocks/woods/blockWoods1_15"
+		},
+		"blockWoods_0": {
+			"textures": "textures/blocks/woods/blockWoods_0"
+		},
+		"blockWoods_1": {
+			"textures": "textures/blocks/woods/blockWoods_1"
+		},
+		"blockWoods_2": {
+			"textures": "textures/blocks/woods/blockWoods_2"
+		},
+		"blockWoods_3": {
+			"textures": "textures/blocks/woods/blockWoods_3"
+		},
+		"blockWoods_4": {
+			"textures": "textures/blocks/woods/blockWoods_4"
+		},
+		"blockWoods_5": {
+			"textures": "textures/blocks/woods/blockWoods_5"
+		},
+		"blockWoods_6": {
+			"textures": "textures/blocks/woods/blockWoods_6"
+		},
+		"blockWoods_7": {
+			"textures": "textures/blocks/woods/blockWoods_7"
+		},
+		"blockWoods_8": {
+			"textures": "textures/blocks/woods/blockWoods_8"
+		},
+		"blockWoods_9": {
+			"textures": "textures/blocks/woods/blockWoods_9"
+		},
+		"blockWoods_10": {
+			"textures": "textures/blocks/woods/blockWoods_10"
+		},
+		"blockWoods_11": {
+			"textures": "textures/blocks/woods/blockWoods_11"
+		},
+		"blockWoods_12": {
+			"textures": "textures/blocks/woods/blockWoods_12"
+		},
+		"blockWoods_13": {
+			"textures": "textures/blocks/woods/blockWoods_13"
+		},
+		"blockWoods_14": {
+			"textures": "textures/blocks/woods/blockWoods_14"
+		},
+		"blockWoods_15": {
+			"textures": "textures/blocks/woods/blockWoods_15"
 		}
 	}
 }

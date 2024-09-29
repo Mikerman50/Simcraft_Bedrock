@@ -675,5 +675,197 @@
 	},
 	"bridge:blockFlowers_15": {
 		"textures": "blockFlowers_15"
+	},
+	"bridge:blockFlowers2_0": {
+		"textures": "blockFlowers2_0"
+	},
+	"bridge:blockFlowers2_1": {
+		"textures": "blockFlowers2_1"
+	},
+	"bridge:blockFlowers2_2": {
+		"textures": "blockFlowers2_2"
+	},
+	"bridge:blockFlowers2_3": {
+		"textures": "blockFlowers2_3"
+	},
+	"bridge:blockFlowers2_4": {
+		"textures": "blockFlowers2_4"
+	},
+	"bridge:blockFlowers2_5": {
+		"textures": "blockFlowers2_5"
+	},
+	"bridge:blockFlowers2_6": {
+		"textures": "blockFlowers2_6"
+	},
+	"bridge:blockFlowers2_7": {
+		"textures": "blockFlowers2_7"
+	},
+	"bridge:blockFlowers2_8": {
+		"textures": "blockFlowers2_8"
+	},
+	"bridge:blockFlowers2_9": {
+		"textures": "blockFlowers2_9"
+	},
+	"bridge:blockFlowers2_10": {
+		"textures": "blockFlowers2_10"
+	},
+	"bridge:blockFlowers2_11": {
+		"textures": "blockFlowers2_11"
+	},
+	"bridge:blockFlowers2_12": {
+		"textures": "blockFlowers2_12"
+	},
+	"bridge:blockFlowers2_13": {
+		"textures": "blockFlowers2_13"
+	},
+	"bridge:blockFlowers2_14": {
+		"textures": "blockFlowers2_14"
+	},
+	"bridge:blockFlowers2_15": {
+		"textures": "blockFlowers2_15"
+	},
+	"bridge:blockFlowers1_0": {
+		"textures": "blockFlowers1_0"
+	},
+	"bridge:blockFlowers1_1": {
+		"textures": "blockFlowers1_1"
+	},
+	"bridge:blockFlowers1_2": {
+		"textures": "blockFlowers1_2"
+	},
+	"bridge:blockFlowers1_3": {
+		"textures": "blockFlowers1_3"
+	},
+	"bridge:blockFlowers1_4": {
+		"textures": "blockFlowers1_4"
+	},
+	"bridge:blockFlowers1_5": {
+		"textures": "blockFlowers1_5"
+	},
+	"bridge:blockFlowers1_6": {
+		"textures": "blockFlowers1_6"
+	},
+	"bridge:blockFlowers1_7": {
+		"textures": "blockFlowers1_7"
+	},
+	"bridge:blockFlowers1_8": {
+		"textures": "blockFlowers1_8"
+	},
+	"bridge:blockFlowers1_9": {
+		"textures": "blockFlowers1_9"
+	},
+	"bridge:blockFlowers1_10": {
+		"textures": "blockFlowers1_10"
+	},
+	"bridge:blockFlowers1_11": {
+		"textures": "blockFlowers1_11"
+	},
+	"bridge:blockFlowers1_12": {
+		"textures": "blockFlowers1_12"
+	},
+	"bridge:blockFlowers1_13": {
+		"textures": "blockFlowers1_13"
+	},
+	"bridge:blockFlowers1_14": {
+		"textures": "blockFlowers1_14"
+	},
+	"bridge:blockFlowers1_15": {
+		"textures": "blockFlowers1_15"
+	},
+	"bridge:blockWoods_0": {
+		"textures": "blockWoods_0"
+	},
+	"bridge:blockWoods_1": {
+		"textures": "blockWoods_1"
+	},
+	"bridge:blockWoods_2": {
+		"textures": "blockWoods_2"
+	},
+	"bridge:blockWoods_3": {
+		"textures": "blockWoods_3"
+	},
+	"bridge:blockWoods_4": {
+		"textures": "blockWoods_4"
+	},
+	"bridge:blockWoods_5": {
+		"textures": "blockWoods_5"
+	},
+	"bridge:blockWoods_6": {
+		"textures": "blockWoods_6"
+	},
+	"bridge:blockWoods_7": {
+		"textures": "blockWoods_7"
+	},
+	"bridge:blockWoods_8": {
+		"textures": "blockWoods_8"
+	},
+	"bridge:blockWoods_9": {
+		"textures": "blockWoods_9"
+	},
+	"bridge:blockWoods_10": {
+		"textures": "blockWoods_10"
+	},
+	"bridge:blockWoods_11": {
+		"textures": "blockWoods_11"
+	},
+	"bridge:blockWoods_12": {
+		"textures": "blockWoods_12"
+	},
+	"bridge:blockWoods_13": {
+		"textures": "blockWoods_13"
+	},
+	"bridge:blockWoods_14": {
+		"textures": "blockWoods_14"
+	},
+	"bridge:blockWoods_15": {
+		"textures": "blockWoods_15"
+	},
+	"bridge:blockWoods1_0": {
+		"textures": "blockWoods1_0"
+	},
+	"bridge:blockWoods1_1": {
+		"textures": "blockWoods1_1"
+	},
+	"bridge:blockWoods1_2": {
+		"textures": "blockWoods1_2"
+	},
+	"bridge:blockWoods1_3": {
+		"textures": "blockWoods1_3"
+	},
+	"bridge:blockWoods1_4": {
+		"textures": "blockWoods1_4"
+	},
+	"bridge:blockWoods1_5": {
+		"textures": "blockWoods1_5"
+	},
+	"bridge:blockWoods1_6": {
+		"textures": "blockWoods1_6"
+	},
+	"bridge:blockWoods1_7": {
+		"textures": "blockWoods1_7"
+	},
+	"bridge:blockWoods1_8": {
+		"textures": "blockWoods1_8"
+	},
+	"bridge:blockWoods1_9": {
+		"textures": "blockWoods1_9"
+	},
+	"bridge:blockWoods1_10": {
+		"textures": "blockWoods1_10"
+	},
+	"bridge:blockWoods1_11": {
+		"textures": "blockWoods1_11"
+	},
+	"bridge:blockWoods1_12": {
+		"textures": "blockWoods1_12"
+	},
+	"bridge:blockWoods1_13": {
+		"textures": "blockWoods1_13"
+	},
+	"bridge:blockWoods1_14": {
+		"textures": "blockWoods1_14"
+	},
+	"bridge:blockWoods1_15": {
+		"textures": "blockWoods1_15"
 	}
 }

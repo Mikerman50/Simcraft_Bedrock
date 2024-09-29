@@ -2,7 +2,7 @@
   "format_version": "1.20.20",
   "minecraft:block": {
     "description": {
-      "identifier": "bridge:blockFlowers_0",
+      "identifier": "bridge:blockFlowers1_13",
       "menu_category": {
         "category": "nature",
         "group": "itemGroup.name.flower"
@@ -10,16 +10,13 @@
     },
     "components": {
       "minecraft:collision_box": false,
-      "minecraft:selection_box": {
-    "origin": [-8, 0, -8],
-    "size": [16, 16, 16]
-},
+      "minecraft:selection_box": true,
       "minecraft:destructible_by_mining": false,
       "minecraft:destructible_by_explosion": false,
       "minecraft:geometry": "geometry.flower",
       "minecraft:material_instances": {
         "*": {
-          "texture": "blockFlowers_0",
+          "texture": "blockFlowers1_13",
           "render_method": "alpha_test",
           "face_dimming": false,
           "ambient_occlusion": false

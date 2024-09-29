@@ -1,5 +1,5 @@
 {
-	"format_version": "1.20.80",
+	"format_version": "1.21.10",
 	"minecraft:item": {
 		"description": {
 			"identifier": "bridge:crown_helmet",
@@ -9,38 +9,33 @@
 			}
 		},
 		"components": {
+			"minecraft:icon": "my_helm",
+			"minecraft:display_name": {
+				"value": "My Custom Helmet"
+			},
 			"minecraft:max_stack_size": 1,
+			// Helm enchantment slot
 			"minecraft:enchantable": {
-				"value": 9,
+				"value": 10,
 				"slot": "armor_head"
-			},
-			"minecraft:durability": {
-				"max_durability": 165,
-				"damage_chance": {
-					"min": 60,
-					"max": 100
-				}
-			},
-			"minecraft:icon": "bridge_crown_helmet",
-			"minecraft:wearable": {
-				"slot": "slot.armor.head",
-				"protection": 2
 			},
 			"minecraft:repairable": {
 				"repair_items": [
 					{
 						"items": [
-							"minecraft:iron_ingot"
+							"minecraft:stick"
 						],
-						"repair_amount": "query.max_durability * 0.25"
-					},
-					{
-						"items": [
-							"bridge:crown_helmet"
-						],
-						"repair_amount": "context.other->query.remaining_durability + 0.12 * context.other->query.max_durability"
+						"repair_amount": "context.other->q.remaining_durability + 0.05 * context.other->q.max_durability"
 					}
 				]
+			},
+			// Wearable head slot
+			"minecraft:wearable": {
+				"slot": "slot.armor.head",
+				"protection": 3
+			},
+			"minecraft:durability": {
+				"max_durability": 200
 			}
 		}
 	}

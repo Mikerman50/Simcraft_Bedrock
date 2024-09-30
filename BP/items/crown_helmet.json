@@ -14,7 +14,6 @@
 				"value": "My Custom Helmet"
 			},
 			"minecraft:max_stack_size": 1,
-			// Helm enchantment slot
 			"minecraft:enchantable": {
 				"value": 10,
 				"slot": "armor_head"
@@ -25,11 +24,10 @@
 						"items": [
 							"minecraft:stick"
 						],
-						"repair_amount": "context.other->q.remaining_durability + 0.05 * context.other->q.max_durability"
+						"repair_amount": "context.other->q.remaining_durability+0.05*context.other->q.max_durability"
 					}
 				]
 			},
-			// Wearable head slot
 			"minecraft:wearable": {
 				"slot": "slot.armor.head",
 				"protection": 3

@@ -867,6 +867,150 @@
 		},
 		"blockWoods_15": {
 			"textures": "textures/blocks/woods/blockWoods_15"
+		},
+		"blockWindows_0": {
+			"textures": "textures/blocks/windows/blockWindows_0"
+		},
+		"blockWindows_1": {
+			"textures": "textures/blocks/windows/blockWindows_1"
+		},
+		"blockWindows_2": {
+			"textures": "textures/blocks/windows/blockWindows_2"
+		},
+		"blockWindows_3": {
+			"textures": "textures/blocks/windows/blockWindows_3"
+		},
+		"blockWindows_4": {
+			"textures": "textures/blocks/windows/blockWindows_4"
+		},
+		"blockWindows_5": {
+			"textures": "textures/blocks/windows/blockWindows_5"
+		},
+		"blockWindows_6": {
+			"textures": "textures/blocks/windows/blockWindows_6"
+		},
+		"blockWindows_7": {
+			"textures": "textures/blocks/windows/blockWindows_7"
+		},
+		"blockWindows_8": {
+			"textures": "textures/blocks/windows/blockWindows_8"
+		},
+		"blockWindows_9": {
+			"textures": "textures/blocks/windows/blockWindows_9"
+		},
+		"blockWindows_10": {
+			"textures": "textures/blocks/windows/blockWindows_10"
+		},
+		"blockWindows_11": {
+			"textures": "textures/blocks/windows/blockWindows_11"
+		},
+		"blockWindows_12": {
+			"textures": "textures/blocks/windows/blockWindows_12"
+		},
+		"blockWindows_13": {
+			"textures": "textures/blocks/windows/blockWindows_13"
+		},
+		"blockWindows_14": {
+			"textures": "textures/blocks/windows/blockWindows_14"
+		},
+		"blockWindows_15": {
+			"textures": "textures/blocks/windows/blockWindows_15"
+		},
+		"blockCarpets_0": {
+			"textures": "textures/blocks/carpets/blockCarpets_0"
+		},
+		"blockCarpets_1": {
+			"textures": "textures/blocks/carpets/blockCarpets_1"
+		},
+		"blockCarpets_2": {
+			"textures": "textures/blocks/carpets/blockCarpets_2"
+		},
+		"blockCarpets_3": {
+			"textures": "textures/blocks/carpets/blockCarpets_3"
+		},
+		"blockCarpets_4": {
+			"textures": "textures/blocks/carpets/blockCarpets_4"
+		},
+		"blockCarpets_5": {
+			"textures": "textures/blocks/carpets/blockCarpets_5"
+		},
+		"blockCarpets_6": {
+			"textures": "textures/blocks/carpets/blockCarpets_6"
+		},
+		"blockCarpets_7": {
+			"textures": "textures/blocks/carpets/blockCarpets_7"
+		},
+		"blockCarpets_8": {
+			"textures": "textures/blocks/carpets/blockCarpets_8"
+		},
+		"blockCarpets_9": {
+			"textures": "textures/blocks/carpets/blockCarpets_9"
+		},
+		"blockCarpets_10": {
+			"textures": "textures/blocks/carpets/blockCarpets_10"
+		},
+		"blockCarpets_11": {
+			"textures": "textures/blocks/carpets/blockCarpets_11"
+		},
+		"blockCarpets_12": {
+			"textures": "textures/blocks/carpets/blockCarpets_12"
+		},
+		"blockCarpets_13": {
+			"textures": "textures/blocks/carpets/blockCarpets_13"
+		},
+		"blockCarpets_14": {
+			"textures": "textures/blocks/carpets/blockCarpets_14"
+		},
+		"blockCarpets_15": {
+			"textures": "textures/blocks/carpets/blockCarpets_15"
+		},
+		"blockCarpets1_0": {
+			"textures": "textures/blocks/carpets/blockCarpets1_0"
+		},
+		"blockCarpets1_1": {
+			"textures": "textures/blocks/carpets/blockCarpets1_1"
+		},
+		"blockCarpets1_2": {
+			"textures": "textures/blocks/carpets/blockCarpets1_2"
+		},
+		"blockCarpets1_3": {
+			"textures": "textures/blocks/carpets/blockCarpets1_3"
+		},
+		"blockCarpets1_4": {
+			"textures": "textures/blocks/carpets/blockCarpets1_4"
+		},
+		"blockCarpets1_5": {
+			"textures": "textures/blocks/carpets/blockCarpets1_5"
+		},
+		"blockCarpets1_6": {
+			"textures": "textures/blocks/carpets/blockCarpets1_6"
+		},
+		"blockCarpets1_7": {
+			"textures": "textures/blocks/carpets/blockCarpets1_7"
+		},
+		"blockCarpets1_8": {
+			"textures": "textures/blocks/carpets/blockCarpets1_8"
+		},
+		"blockCarpets1_9": {
+			"textures": "textures/blocks/carpets/blockCarpets1_9"
+		},
+		"blockCarpets1_10": {
+			"textures": "textures/blocks/carpets/blockCarpets1_10"
+		},
+		"blockCarpets1_11": {
+			"textures": "textures/blocks/carpets/blockCarpets1_11"
+		},
+		"blockCarpets1_12": {
+			"textures": "textures/blocks/carpets/blockCarpets1_12"
+		},
+		"blockCarpets1_13": {
+			"textures": "textures/blocks/carpets/blockCarpets1_13"
+		},
+		"blockCarpets1_14": {
+			"textures": "textures/blocks/carpets/blockCarpets1_14"
+		},
+		"blockCarpets1_15": {
+			"textures": "textures/blocks/carpets/blockCarpets1_15"
 		}
 	}
 }

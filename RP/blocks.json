@@ -676,54 +676,6 @@
 	"bridge:blockFlowers_15": {
 		"textures": "blockFlowers_15"
 	},
-	"bridge:blockFlowers2_0": {
-		"textures": "blockFlowers2_0"
-	},
-	"bridge:blockFlowers2_1": {
-		"textures": "blockFlowers2_1"
-	},
-	"bridge:blockFlowers2_2": {
-		"textures": "blockFlowers2_2"
-	},
-	"bridge:blockFlowers2_3": {
-		"textures": "blockFlowers2_3"
-	},
-	"bridge:blockFlowers2_4": {
-		"textures": "blockFlowers2_4"
-	},
-	"bridge:blockFlowers2_5": {
-		"textures": "blockFlowers2_5"
-	},
-	"bridge:blockFlowers2_6": {
-		"textures": "blockFlowers2_6"
-	},
-	"bridge:blockFlowers2_7": {
-		"textures": "blockFlowers2_7"
-	},
-	"bridge:blockFlowers2_8": {
-		"textures": "blockFlowers2_8"
-	},
-	"bridge:blockFlowers2_9": {
-		"textures": "blockFlowers2_9"
-	},
-	"bridge:blockFlowers2_10": {
-		"textures": "blockFlowers2_10"
-	},
-	"bridge:blockFlowers2_11": {
-		"textures": "blockFlowers2_11"
-	},
-	"bridge:blockFlowers2_12": {
-		"textures": "blockFlowers2_12"
-	},
-	"bridge:blockFlowers2_13": {
-		"textures": "blockFlowers2_13"
-	},
-	"bridge:blockFlowers2_14": {
-		"textures": "blockFlowers2_14"
-	},
-	"bridge:blockFlowers2_15": {
-		"textures": "blockFlowers2_15"
-	},
 	"bridge:blockFlowers1_0": {
 		"textures": "blockFlowers1_0"
 	},
@@ -771,6 +723,54 @@
 	},
 	"bridge:blockFlowers1_15": {
 		"textures": "blockFlowers1_15"
+	},
+	"bridge:blockFlowers2_0": {
+		"textures": "blockFlowers2_0"
+	},
+	"bridge:blockFlowers2_1": {
+		"textures": "blockFlowers2_1"
+	},
+	"bridge:blockFlowers2_2": {
+		"textures": "blockFlowers2_2"
+	},
+	"bridge:blockFlowers2_3": {
+		"textures": "blockFlowers2_3"
+	},
+	"bridge:blockFlowers2_4": {
+		"textures": "blockFlowers2_4"
+	},
+	"bridge:blockFlowers2_5": {
+		"textures": "blockFlowers2_5"
+	},
+	"bridge:blockFlowers2_6": {
+		"textures": "blockFlowers2_6"
+	},
+	"bridge:blockFlowers2_7": {
+		"textures": "blockFlowers2_7"
+	},
+	"bridge:blockFlowers2_8": {
+		"textures": "blockFlowers2_8"
+	},
+	"bridge:blockFlowers2_9": {
+		"textures": "blockFlowers2_9"
+	},
+	"bridge:blockFlowers2_10": {
+		"textures": "blockFlowers2_10"
+	},
+	"bridge:blockFlowers2_11": {
+		"textures": "blockFlowers2_11"
+	},
+	"bridge:blockFlowers2_12": {
+		"textures": "blockFlowers2_12"
+	},
+	"bridge:blockFlowers2_13": {
+		"textures": "blockFlowers2_13"
+	},
+	"bridge:blockFlowers2_14": {
+		"textures": "blockFlowers2_14"
+	},
+	"bridge:blockFlowers2_15": {
+		"textures": "blockFlowers2_15"
 	},
 	"bridge:blockWoods_0": {
 		"textures": "blockWoods_0"
@@ -867,5 +867,149 @@
 	},
 	"bridge:blockWoods1_15": {
 		"textures": "blockWoods1_15"
+	},
+	"bridge:blockWindows_0": {
+		"textures": "blockWindows_0"
+	},
+	"bridge:blockWindows_1": {
+		"textures": "blockWindows_1"
+	},
+	"bridge:blockWindows_2": {
+		"textures": "blockWindows_2"
+	},
+	"bridge:blockWindows_3": {
+		"textures": "blockWindows_3"
+	},
+	"bridge:blockWindows_4": {
+		"textures": "blockWindows_4"
+	},
+	"bridge:blockWindows_5": {
+		"textures": "blockWindows_5"
+	},
+	"bridge:blockWindows_6": {
+		"textures": "blockWindows_6"
+	},
+	"bridge:blockWindows_7": {
+		"textures": "blockWindows_7"
+	},
+	"bridge:blockWindows_8": {
+		"textures": "blockWindows_8"
+	},
+	"bridge:blockWindows_9": {
+		"textures": "blockWindows_9"
+	},
+	"bridge:blockWindows_10": {
+		"textures": "blockWindows_10"
+	},
+	"bridge:blockWindows_11": {
+		"textures": "blockWindows_11"
+	},
+	"bridge:blockWindows_12": {
+		"textures": "blockWindows_12"
+	},
+	"bridge:blockWindows_13": {
+		"textures": "blockWindows_13"
+	},
+	"bridge:blockWindows_14": {
+		"textures": "blockWindows_14"
+	},
+	"bridge:blockWindows_15": {
+		"textures": "blockWindows_15"
+	},
+	"bridge:blockCarpets1_0": {
+		"textures": "blockCarpets1_0"
+	},
+	"bridge:blockCarpets1_1": {
+		"textures": "blockCarpets1_1"
+	},
+	"bridge:blockCarpets1_2": {
+		"textures": "blockCarpets1_2"
+	},
+	"bridge:blockCarpets1_3": {
+		"textures": "blockCarpets1_3"
+	},
+	"bridge:blockCarpets1_4": {
+		"textures": "blockCarpets1_4"
+	},
+	"bridge:blockCarpets1_5": {
+		"textures": "blockCarpets1_5"
+	},
+	"bridge:blockCarpets1_6": {
+		"textures": "blockCarpets1_6"
+	},
+	"bridge:blockCarpets1_7": {
+		"textures": "blockCarpets1_7"
+	},
+	"bridge:blockCarpets1_8": {
+		"textures": "blockCarpets1_8"
+	},
+	"bridge:blockCarpets1_9": {
+		"textures": "blockCarpets1_9"
+	},
+	"bridge:blockCarpets1_10": {
+		"textures": "blockCarpets1_10"
+	},
+	"bridge:blockCarpets1_11": {
+		"textures": "blockCarpets1_11"
+	},
+	"bridge:blockCarpets1_12": {
+		"textures": "blockCarpets1_12"
+	},
+	"bridge:blockCarpets1_13": {
+		"textures": "blockCarpets1_13"
+	},
+	"bridge:blockCarpets1_14": {
+		"textures": "blockCarpets1_14"
+	},
+	"bridge:blockCarpets1_15": {
+		"textures": "blockCarpets1_15"
+	},
+	"bridge:blockCarpets_0": {
+		"textures": "blockCarpets_0"
+	},
+	"bridge:blockCarpets_1": {
+		"textures": "blockCarpets_1"
+	},
+	"bridge:blockCarpets_2": {
+		"textures": "blockCarpets_2"
+	},
+	"bridge:blockCarpets_3": {
+		"textures": "blockCarpets_3"
+	},
+	"bridge:blockCarpets_4": {
+		"textures": "blockCarpets_4"
+	},
+	"bridge:blockCarpets_5": {
+		"textures": "blockCarpets_5"
+	},
+	"bridge:blockCarpets_6": {
+		"textures": "blockCarpets_6"
+	},
+	"bridge:blockCarpets_7": {
+		"textures": "blockCarpets_7"
+	},
+	"bridge:blockCarpets_8": {
+		"textures": "blockCarpets_8"
+	},
+	"bridge:blockCarpets_9": {
+		"textures": "blockCarpets_9"
+	},
+	"bridge:blockCarpets_10": {
+		"textures": "blockCarpets_10"
+	},
+	"bridge:blockCarpets_11": {
+		"textures": "blockCarpets_11"
+	},
+	"bridge:blockCarpets_12": {
+		"textures": "blockCarpets_12"
+	},
+	"bridge:blockCarpets_13": {
+		"textures": "blockCarpets_13"
+	},
+	"bridge:blockCarpets_14": {
+		"textures": "blockCarpets_14"
+	},
+	"bridge:blockCarpets_15": {
+		"textures": "blockCarpets_15"
 	}
 }

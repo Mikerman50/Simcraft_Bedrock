@@ -5,7 +5,8 @@
 			"identifier": "bridge:BlockOre2_0",
 			"menu_category": {
 				"category": "nature",
-				"group": "BlockOre_2"
+				"group": "BlockOre_2",
+				"group": "itemGroup.name.ore"
 			}
 		},
 		"components": {

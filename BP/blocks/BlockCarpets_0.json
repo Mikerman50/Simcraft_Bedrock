@@ -9,7 +9,7 @@
 		},
 		"components": {
 			"minecraft:geometry": {
-				"identifier": "minecraft:geometry.full_block"
+				"identifier": "minecraft:geometry.carpet"
 			}
 		}
 	}

@@ -1,0 +1,17 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bridge:blockCarpetTiles_0",
+			"menu_category": {
+				"category": "construction"
+			}
+		},
+		"components": {
+			// We tell it what geometry to use for the helmet
+			"geometry": {
+				"minecraft:geometry": "geometry.carpet_block"
+			}
+		}
+	}
+}

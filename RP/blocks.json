@@ -1011,5 +1011,101 @@
 	},
 	"bridge:blockCarpets_15": {
 		"textures": "blockCarpets_15"
+	},
+	"bridge:blockCarpetTiles1_0": {
+		"textures": "blockCarpets1_0"
+	},
+	"bridge:blockCarpetTiles1_1": {
+		"textures": "blockCarpets1_1"
+	},
+	"bridge:blockCarpetTiles1_2": {
+		"textures": "blockCarpets1_2"
+	},
+	"bridge:blockCarpetTiles1_3": {
+		"textures": "blockCarpets1_3"
+	},
+	"bridge:blockCarpetTiles1_4": {
+		"textures": "blockCarpets1_4"
+	},
+	"bridge:blockCarpetTiles1_5": {
+		"textures": "blockCarpets1_5"
+	},
+	"bridge:blockCarpetTiles1_6": {
+		"textures": "blockCarpets1_6"
+	},
+	"bridge:blockCarpetTiles1_7": {
+		"textures": "blockCarpets1_7"
+	},
+	"bridge:blockCarpetTiles1_8": {
+		"textures": "blockCarpets1_8"
+	},
+	"bridge:blockCarpetTiles1_9": {
+		"textures": "blockCarpets1_9"
+	},
+	"bridge:blockCarpetTiles1_10": {
+		"textures": "blockCarpets1_10"
+	},
+	"bridge:blockCarpetTiles1_11": {
+		"textures": "blockCarpets1_11"
+	},
+	"bridge:blockCarpetTiles1_12": {
+		"textures": "blockCarpets1_12"
+	},
+	"bridge:blockCarpetTiles1_13": {
+		"textures": "blockCarpets1_13"
+	},
+	"bridge:blockCarpetTiles1_14": {
+		"textures": "blockCarpets1_14"
+	},
+	"bridge:blockCarpetTiles1_15": {
+		"textures": "blockCarpets1_15"
+	},
+	"bridge:blockCarpetTiles_0": {
+		"textures": "blockCarpets_0"
+	},
+	"bridge:blockCarpetTiles_1": {
+		"textures": "blockCarpets_1"
+	},
+	"bridge:blockCarpetTiles_2": {
+		"textures": "blockCarpets_2"
+	},
+	"bridge:blockCarpetTiles_3": {
+		"textures": "blockCarpets_3"
+	},
+	"bridge:blockCarpetTiles_4": {
+		"textures": "blockCarpets_4"
+	},
+	"bridge:blockCarpetTiles_5": {
+		"textures": "blockCarpets_5"
+	},
+	"bridge:blockCarpetTiles_6": {
+		"textures": "blockCarpets_6"
+	},
+	"bridge:blockCarpetTiles_7": {
+		"textures": "blockCarpets_7"
+	},
+	"bridge:blockCarpetTiles_8": {
+		"textures": "blockCarpets_8"
+	},
+	"bridge:blockCarpetTiles_9": {
+		"textures": "blockCarpets_9"
+	},
+	"bridge:blockCarpetTiles_10": {
+		"textures": "blockCarpets_10"
+	},
+	"bridge:blockCarpetTiles_11": {
+		"textures": "blockCarpets_11"
+	},
+	"bridge:blockCarpetTiles_12": {
+		"textures": "blockCarpets_12"
+	},
+	"bridge:blockCarpetTiles_13": {
+		"textures": "blockCarpets_13"
+	},
+	"bridge:blockCarpetTiles_14": {
+		"textures": "blockCarpets_14"
+	},
+	"bridge:blockCarpetTiles_15": {
+		"textures": "blockCarpets_15"
 	}
 }

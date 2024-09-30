@@ -4,7 +4,8 @@
 		"description": {
 			"identifier": "bridge:BlockOre1_3",
 			"menu_category": {
-				"category": "nature"
+				"category": "nature",
+				"group": "itemGroup.name.ore"
 			}
 		},
 		"components": {

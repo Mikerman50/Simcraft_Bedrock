@@ -358,6 +358,24 @@ tile.bridge:blockcarpets1_13.name=Woven Orange Rag Rug
 tile.bridge:blockcarpets1_14.name=Red Saxony Carpet
 tile.bridge:blockcarpets1_15.name=Brown Saxony Carpet
 
+tile.bridge:BlockGardenPot_0.name=Terracota Garden Pot
+tile.bridge:BlockGardenPot_1.name=Terracota Embossed Garden Pot
+tile.bridge:BlockGardenPot_2.name=White Garden Pot
+tile.bridge:BlockGardenPot_3.name=Terracota Grey Embossed Garden Pot
+tile.bridge:BlockGardenPot_4.name=Dark Steel Garden Pot
+tile.bridge:BlockGardenPot_5.name=Terracota Green Embossed Garden Pot
+tile.bridge:BlockGardenPot_6.name=Terracota Black Garden Pot
+tile.bridge:BlockGardenPot_7.name=Terracota Green Garden Pot
+tile.bridge:BlockGardenPot_8.name=Concrete Embossed Garden Pot
+tile.bridge:BlockGardenPot_9.name=Ceramic Embossed Garden Pot
+tile.bridge:BlockGardenPot_10.name=Wooden Garden Pot
+tile.bridge:BlockGardenPot_11.name=White Wooden Garden Pot
+tile.bridge:BlockGardenPot_12.name=Steel Garden Pot
+tile.bridge:BlockGardenPot_13.name=Green Garden Pot
+tile.bridge:BlockGardenPot_14.name=Ceramic Brown Garden Pot
+tile.bridge:BlockGardenPot_15.name=Concrete Stone Garden Pot
+
+
 
 item.bridge:crown_helmet=Crown Helmet
 item.bridge:crown_chestplate=Crown Chestplate

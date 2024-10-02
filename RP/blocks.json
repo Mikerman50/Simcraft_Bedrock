@@ -1,8 +1,8 @@
 {
 	"format_version": [
 		1,
-		1,
-		0
+		19,
+		30
 	],
 	"bridge:blockOre1_0": {
 		"textures": "blockOre1_0"
@@ -1107,5 +1107,149 @@
 	},
 	"bridge:blockCarpetTiles_15": {
 		"textures": "blockCarpets_15"
+	},
+	"bridge:blockGardenPot_0": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_0"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_1": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_1"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_2": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_2"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_3": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_3"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_4": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_4"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_5": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_5"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_6": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_6"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_7": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_7"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_8": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_8"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_9": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_9"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_10": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_10"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_11": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_11"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_12": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_12"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_13": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_13"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_14": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_14"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
+	},
+	"bridge:blockGardenPot_15": {
+		"textures": {
+			"up": "gardenPot_up",
+			"down": "gardenPot_down",
+			"side": "blockGardenPot_15"
+		},
+		"brightness_gamma": 1,
+		"sound": "stone"
 	}
 }

@@ -9,6 +9,7 @@
 			}
 		},
 		"components": {
+			"tag:plant": {},
 			"minecraft:collision_box": false,
 			"minecraft:selection_box": true,
 			"minecraft:destructible_by_mining": false,

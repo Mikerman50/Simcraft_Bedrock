@@ -1107,6 +1107,60 @@
 		},
 		"blockCarpetTiles1_15": {
 			"textures": "textures/blocks/carpets/blockCarpets1_15"
+		},
+		"gardenPot_down": {
+			"textures": "textures/blocks/bricks/blockBricks5_15"
+		},
+		"gardenPot_up": {
+			"textures": "textures/blocks/bricks/blockBricks5_15"
+		},
+		"blockGardenPot_0": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_0"
+		},
+		"blockGardenPot_1": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_1"
+		},
+		"blockGardenPot_2": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_2"
+		},
+		"blockGardenPot_3": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_3"
+		},
+		"blockGardenPot_4": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_4"
+		},
+		"blockGardenPot_5": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_5"
+		},
+		"blockGardenPot_6": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_6"
+		},
+		"blockGardenPot_7": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_7"
+		},
+		"blockGardenPot_8": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_8"
+		},
+		"blockGardenPot_9": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_9"
+		},
+		"blockGardenPot_10": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_10"
+		},
+		"blockGardenPot_11": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_11"
+		},
+		"blockGardenPot_12": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_12"
+		},
+		"blockGardenPot_13": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_13"
+		},
+		"blockGardenPot_14": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_14"
+		},
+		"blockGardenPot_15": {
+			"textures": "textures/blocks/gardenpot/blockGardenPot_15"
 		}
 	}
 }

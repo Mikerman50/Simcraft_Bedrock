@@ -4,7 +4,8 @@
 		"description": {
 			"identifier": "bridge:blockCarpets1_7",
 			"menu_category": {
-				"category": "construction"
+				"category": "construction",
+				"group": "itemGroup.name.wool"
 			}
 		},
 		"components": {

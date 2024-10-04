@@ -4,12 +4,13 @@
 		"description": {
 			"identifier": "bridge:blockCarpets_0",
 			"menu_category": {
-				"category": "construction"
+				"category": "construction",
+				"group": "itemGroup.name.wool"
 			}
 		},
 		"components": {
 			"minecraft:geometry": {
-				"identifier": "minecraft:geometry.carpet"
+				"identifier": "minecraft:geometry.full_block"
 			}
 		}
 	}

@@ -1,0 +1,125 @@
+{
+	"format_version": "1.21.20",
+	"minecraft:block": {
+		"components": {
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 30
+			},
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 2
+			},
+			"minecraft:geometry": {
+				"bone_visibility": {
+					"bottom": "q.block_state('minecraft:vertical_half') == 'bottom' || q.block_state('bridge:is_double')",
+					"top": "q.block_state('minecraft:vertical_half') == 'top' || q.block_state('bridge:is_double')"
+				},
+				"identifier": "geometry.carpet_block"
+			},
+			"minecraft:map_color": [
+				229,
+				229,
+				51
+			],
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "blockOre1_0"
+				},
+				"sides": {
+					"texture": "blockOre1_0"
+				}
+			}
+		},
+		"description": {
+			"identifier": "bridge:custon_slab",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name."
+			},
+			"states": {
+				"bridge:is_double": [
+					false,
+					true
+				]
+			},
+			"traits": {
+				"minecraft:placement_position": {
+					"enabled_states": [
+						"minecraft:vertical_half"
+					]
+				}
+			}
+		},
+		"permutations": [
+			{
+				"components": {
+					"minecraft:collision_box": {
+						"origin": [
+							-8,
+							0,
+							-8
+						],
+						"size": [
+							16,
+							8,
+							16
+						]
+					},
+					"minecraft:custom_components": [
+						//"adk-lib:before_on_player_place_double_slab"
+					],
+					"minecraft:selection_box": {
+						"origin": [
+							-8,
+							0,
+							-8
+						],
+						"size": [
+							16,
+							8,
+							16
+						]
+					}
+				},
+				"condition": "q.block_state('minecraft:vertical_half') == 'bottom' && !q.block_state('bridge:is_double')"
+			},
+			{
+				"components": {
+					"minecraft:collision_box": {
+						"origin": [
+							-8,
+							8,
+							-8
+						],
+						"size": [
+							16,
+							8,
+							16
+						]
+					},
+					"minecraft:custom_components": [
+						//"adk-lib:before_on_player_place_double_slab"
+					],
+					"minecraft:selection_box": {
+						"origin": [
+							-8,
+							8,
+							-8
+						],
+						"size": [
+							16,
+							8,
+							16
+						]
+					}
+				},
+				"condition": "q.block_state('minecraft:vertical_half') == 'top' && !q.block_state('bridge:is_double')"
+			},
+			{
+				"components": {
+					//"minecraft:loot": "loot_tables/wiki/blocks/honeycomb_bricks_slab.json"
+				},
+				"condition": "q.block_state('bridge:is_double')"
+			}
+		]
+	}
+}

@@ -1161,6 +1161,57 @@
 		},
 		"blockGardenPot_15": {
 			"textures": "textures/blocks/gardenpot/blockGardenPot_15"
+		},
+		"blockTaintedLight_0": {
+			"textures": "textures/blocks/light/blockTaintedLight_0"
+		},
+		"blockTaintedLight_1": {
+			"textures": "textures/blocks/light/blockTaintedLight_1"
+		},
+		"blockTaintedLight_2": {
+			"textures": "textures/blocks/light/blockTaintedLight_2"
+		},
+		"blockTaintedLight_3": {
+			"textures": "textures/blocks/light/blockTaintedLight_3"
+		},
+		"blockTaintedLight_4": {
+			"textures": "textures/blocks/light/blockTaintedLight_4"
+		},
+		"blockTaintedLight_5": {
+			"textures": "textures/blocks/light/blockTaintedLight_5"
+		},
+		"blockTaintedLight_6": {
+			"textures": "textures/blocks/light/blockTaintedLight_6"
+		},
+		"blockTaintedLight_7": {
+			"textures": "textures/blocks/light/blockTaintedLight_7"
+		},
+		"blockTaintedLight_8": {
+			"textures": "textures/blocks/light/blockTaintedLight_8"
+		},
+		"blockTaintedLight_9": {
+			"textures": "textures/blocks/light/blockTaintedLight_9"
+		},
+		"blockTaintedLight_10": {
+			"textures": "textures/blocks/light/blockTaintedLight_10"
+		},
+		"blockTaintedLight_11": {
+			"textures": "textures/blocks/light/blockTaintedLight_11"
+		},
+		"blockTaintedLight_12": {
+			"textures": "textures/blocks/light/blockTaintedLight_12"
+		},
+		"blockTaintedLight_13": {
+			"textures": "textures/blocks/light/blockTaintedLight_13"
+		},
+		"blockTaintedLight_14": {
+			"textures": "textures/blocks/light/blockTaintedLight_14"
+		},
+		"blockTaintedLight_15": {
+			"textures": "textures/blocks/light/blockTaintedLight_15"
+		},
+		"bridge_custon_slab": {
+			"textures": "textures/blocks/crown"
 		}
 	}
 }

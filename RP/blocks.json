@@ -1251,5 +1251,56 @@
 		},
 		"brightness_gamma": 1,
 		"sound": "stone"
+	},
+	"bridge:blockTaintedLight_0": {
+		"textures": "blockTaintedLight_0"
+	},
+	"bridge:blockTaintedLight_1": {
+		"textures": "blockTaintedLight_1"
+	},
+	"bridge:blockTaintedLight_2": {
+		"textures": "blockTaintedLight_2"
+	},
+	"bridge:blockTaintedLight_3": {
+		"textures": "blockTaintedLight_3"
+	},
+	"bridge:blockTaintedLight_4": {
+		"textures": "blockTaintedLight_4"
+	},
+	"bridge:blockTaintedLight_5": {
+		"textures": "blockTaintedLight_5"
+	},
+	"bridge:blockTaintedLight_6": {
+		"textures": "blockTaintedLight_6"
+	},
+	"bridge:blockTaintedLight_7": {
+		"textures": "blockTaintedLight_7"
+	},
+	"bridge:blockTaintedLight_8": {
+		"textures": "blockTaintedLight_8"
+	},
+	"bridge:blockTaintedLight_9": {
+		"textures": "blockTaintedLight_9"
+	},
+	"bridge:blockTaintedLight_10": {
+		"textures": "blockTaintedLight_10"
+	},
+	"bridge:blockTaintedLight_11": {
+		"textures": "blockTaintedLight_11"
+	},
+	"bridge:blockTaintedLight_12": {
+		"textures": "blockTaintedLight_12"
+	},
+	"bridge:blockTaintedLight_13": {
+		"textures": "blockTaintedLight_13"
+	},
+	"bridge:blockTaintedLight_14": {
+		"textures": "blockTaintedLight_14"
+	},
+	"bridge:blockTaintedLight_15": {
+		"textures": "blockTaintedLight_15"
+	},
+	"bridge:BlockCarpetTiles_0": {
+		"textures": "blockTaintedLight_15"
 	}
 }

@@ -1,15 +1,63 @@
 {
-	"format_version": "1.20.80",
+	"format_version": "1.21.20",
 	"minecraft:block": {
-		"description": {
-			"identifier": "bridge:blockCarpetTiles_15",
-			"menu_category": {
-				"category": "construction"
+		"components": {
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 30
+			},
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 2
+			},
+			"minecraft:collision_box": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					1,
+					16
+				]
+			},
+			"minecraft:selection_box": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					1,
+					16
+				]
+			},
+			"minecraft:geometry": {
+				"bone_visibility": {
+					"bottom": "q.block_state('minecraft:vertical_half') == 'bottom' || q.block_state('bridge:is_double')",
+					"top": "q.block_state('minecraft:vertical_half') == 'top' || q.block_state('bridge:is_double')"
+				},
+				"identifier": "geometry.carpet_block"
+			},
+			"minecraft:map_color": [
+				229,
+				229,
+				51
+			],
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "blockCarpets_15"
+				},
+				"sides": {
+					"texture": "blockCarpets_15"
+				}
 			}
 		},
-		"components": {
-			"minecraft:geometry": {
-				"identifier": "minecraft:geometry.carpet_block"
+		"description": {
+			"identifier": "bridge:BlockCarpetTiles_15",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name.woolCarpet"
 			}
 		}
 	}

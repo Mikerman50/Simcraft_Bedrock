@@ -628,293 +628,389 @@
 	"bridge:blockmarbleStones_15": {
 		"textures": "blockmarbleStones_15"
 	},
-	"bridge:blockFlowers_0": {
-		"textures": "blockFlowers_0"
+	"bridge:blockFlowers_0": { //plants
+		"textures": "blockFlowers_0",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_1": {
-		"textures": "blockFlowers_1"
+		"textures": "blockFlowers_1",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_2": {
-		"textures": "blockFlowers_2"
+		"textures": "blockFlowers_2",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_3": {
-		"textures": "blockFlowers_3"
+		"textures": "blockFlowers_3",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_4": {
-		"textures": "blockFlowers_4"
+		"textures": "blockFlowers_4",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_5": {
-		"textures": "blockFlowers_5"
+		"textures": "blockFlowers_5",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_6": {
-		"textures": "blockFlowers_6"
+		"textures": "blockFlowers_6",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_7": {
-		"textures": "blockFlowers_7"
+		"textures": "blockFlowers_7",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_8": {
-		"textures": "blockFlowers_8"
+		"textures": "blockFlowers_8",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_9": {
-		"textures": "blockFlowers_9"
+		"textures": "blockFlowers_9",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_10": {
-		"textures": "blockFlowers_10"
+		"textures": "blockFlowers_10",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_11": {
-		"textures": "blockFlowers_11"
+		"textures": "blockFlowers_11",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_12": {
-		"textures": "blockFlowers_12"
+		"textures": "blockFlowers_12",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_13": {
-		"textures": "blockFlowers_13"
+		"textures": "blockFlowers_13",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_14": {
-		"textures": "blockFlowers_14"
+		"textures": "blockFlowers_14",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers_15": {
-		"textures": "blockFlowers_15"
+		"textures": "blockFlowers_15",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_0": {
-		"textures": "blockFlowers1_0"
+		"textures": "blockFlowers1_0",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_1": {
-		"textures": "blockFlowers1_1"
+		"textures": "blockFlowers1_1",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_2": {
-		"textures": "blockFlowers1_2"
+		"textures": "blockFlowers1_2",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_3": {
-		"textures": "blockFlowers1_3"
+		"textures": "blockFlowers1_3",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_4": {
-		"textures": "blockFlowers1_4"
+		"textures": "blockFlowers1_4",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_5": {
-		"textures": "blockFlowers1_5"
+		"textures": "blockFlowers1_5",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_6": {
-		"textures": "blockFlowers1_6"
+		"textures": "blockFlowers1_6",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_7": {
-		"textures": "blockFlowers1_7"
+		"textures": "blockFlowers1_7",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_8": {
-		"textures": "blockFlowers1_8"
+		"textures": "blockFlowers1_8",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_9": {
-		"textures": "blockFlowers1_9"
+		"textures": "blockFlowers1_9",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_10": {
-		"textures": "blockFlowers1_10"
+		"textures": "blockFlowers1_10",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_11": {
-		"textures": "blockFlowers1_11"
+		"textures": "blockFlowers1_11",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_12": {
-		"textures": "blockFlowers1_12"
+		"textures": "blockFlowers1_12",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_13": {
-		"textures": "blockFlowers1_13"
+		"textures": "blockFlowers1_13",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_14": {
-		"textures": "blockFlowers1_14"
+		"textures": "blockFlowers1_14",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers1_15": {
-		"textures": "blockFlowers1_15"
+		"textures": "blockFlowers1_15",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_0": {
-		"textures": "blockFlowers2_0"
+		"textures": "blockFlowers2_0",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_1": {
-		"textures": "blockFlowers2_1"
+		"textures": "blockFlowers2_1",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_2": {
-		"textures": "blockFlowers2_2"
+		"textures": "blockFlowers2_2",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_3": {
-		"textures": "blockFlowers2_3"
+		"textures": "blockFlowers2_3",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_4": {
-		"textures": "blockFlowers2_4"
+		"textures": "blockFlowers2_4",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_5": {
-		"textures": "blockFlowers2_5"
+		"textures": "blockFlowers2_5",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_6": {
-		"textures": "blockFlowers2_6"
+		"textures": "blockFlowers2_6",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_7": {
-		"textures": "blockFlowers2_7"
+		"textures": "blockFlowers2_7",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_8": {
-		"textures": "blockFlowers2_8"
+		"textures": "blockFlowers2_8",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_9": {
-		"textures": "blockFlowers2_9"
+		"textures": "blockFlowers2_9",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_10": {
-		"textures": "blockFlowers2_10"
+		"textures": "blockFlowers2_10",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_11": {
-		"textures": "blockFlowers2_11"
+		"textures": "blockFlowers2_11",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_12": {
-		"textures": "blockFlowers2_12"
+		"textures": "blockFlowers2_12",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_13": {
-		"textures": "blockFlowers2_13"
+		"textures": "blockFlowers2_13",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_14": {
-		"textures": "blockFlowers2_14"
+		"textures": "blockFlowers2_14",
+		"sound": "grass"
 	},
 	"bridge:blockFlowers2_15": {
-		"textures": "blockFlowers2_15"
+		"textures": "blockFlowers2_15",
+		"sound": "grass"
 	},
 	"bridge:blockWoods_0": {
-		"textures": "blockWoods_0"
+		"textures": "blockWoods_0",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_1": {
-		"textures": "blockWoods_1"
+		"textures": "blockWoods_1",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_2": {
-		"textures": "blockWoods_2"
+		"textures": "blockWoods_2",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_3": {
-		"textures": "blockWoods_3"
+		"textures": "blockWoods_3",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_4": {
-		"textures": "blockWoods_4"
+		"textures": "blockWoods_4",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_5": {
-		"textures": "blockWoods_5"
+		"textures": "blockWoods_5",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_6": {
-		"textures": "blockWoods_6"
+		"textures": "blockWoods_6",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_7": {
-		"textures": "blockWoods_7"
+		"textures": "blockWoods_7",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_8": {
-		"textures": "blockWoods_8"
+		"textures": "blockWoods_8",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_9": {
-		"textures": "blockWoods_9"
+		"textures": "blockWoods_9",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_10": {
-		"textures": "blockWoods_10"
+		"textures": "blockWoods_10",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_11": {
-		"textures": "blockWoods_11"
+		"textures": "blockWoods_11",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_12": {
-		"textures": "blockWoods_12"
+		"textures": "blockWoods_12",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_13": {
-		"textures": "blockWoods_13"
+		"textures": "blockWoods_13",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_14": {
-		"textures": "blockWoods_14"
+		"textures": "blockWoods_14",
+		"sound": "wood"
 	},
 	"bridge:blockWoods_15": {
-		"textures": "blockWoods_15"
+		"textures": "blockWoods_15",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_0": {
-		"textures": "blockWoods1_0"
+		"textures": "blockWoods1_0",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_1": {
-		"textures": "blockWoods1_1"
+		"textures": "blockWoods1_1",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_2": {
-		"textures": "blockWoods1_2"
+		"textures": "blockWoods1_2",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_3": {
-		"textures": "blockWoods1_3"
+		"textures": "blockWoods1_3",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_4": {
-		"textures": "blockWoods1_4"
+		"textures": "blockWoods1_4",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_5": {
-		"textures": "blockWoods1_5"
+		"textures": "blockWoods1_5",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_6": {
-		"textures": "blockWoods1_6"
+		"textures": "blockWoods1_6",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_7": {
-		"textures": "blockWoods1_7"
+		"textures": "blockWoods1_7",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_8": {
-		"textures": "blockWoods1_8"
+		"textures": "blockWoods1_8",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_9": {
-		"textures": "blockWoods1_9"
+		"textures": "blockWoods1_9",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_10": {
-		"textures": "blockWoods1_10"
+		"textures": "blockWoods1_10",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_11": {
-		"textures": "blockWoods1_11"
+		"textures": "blockWoods1_11",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_12": {
-		"textures": "blockWoods1_12"
+		"textures": "blockWoods1_12",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_13": {
-		"textures": "blockWoods1_13"
+		"textures": "blockWoods1_13",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_14": {
-		"textures": "blockWoods1_14"
+		"textures": "blockWoods1_14",
+		"sound": "wood"
 	},
 	"bridge:blockWoods1_15": {
-		"textures": "blockWoods1_15"
+		"textures": "blockWoods1_15",
+		"sound": "wood"
 	},
 	"bridge:blockWindows_0": {
-		"textures": "blockWindows_0"
+		"textures": "blockWindows_0",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_1": {
-		"textures": "blockWindows_1"
+		"textures": "blockWindows_1",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_2": {
-		"textures": "blockWindows_2"
+		"textures": "blockWindows_2",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_3": {
-		"textures": "blockWindows_3"
+		"textures": "blockWindows_3",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_4": {
-		"textures": "blockWindows_4"
+		"textures": "blockWindows_4",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_5": {
-		"textures": "blockWindows_5"
+		"textures": "blockWindows_5",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_6": {
-		"textures": "blockWindows_6"
+		"textures": "blockWindows_6",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_7": {
-		"textures": "blockWindows_7"
+		"textures": "blockWindows_7",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_8": {
-		"textures": "blockWindows_8"
+		"textures": "blockWindows_8",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_9": {
-		"textures": "blockWindows_9"
+		"textures": "blockWindows_9",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_10": {
-		"textures": "blockWindows_10"
+		"textures": "blockWindows_10",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_11": {
-		"textures": "blockWindows_11"
+		"textures": "blockWindows_11",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_12": {
-		"textures": "blockWindows_12"
+		"textures": "blockWindows_12",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_13": {
-		"textures": "blockWindows_13"
+		"textures": "blockWindows_13",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_14": {
-		"textures": "blockWindows_14"
+		"textures": "blockWindows_14",
+		"sound": "glass"
 	},
 	"bridge:blockWindows_15": {
-		"textures": "blockWindows_15"
+		"textures": "blockWindows_15",
+		"sound": "glass"
 	},
 	"bridge:blockCarpets1_0": {
 		"textures": "blockCarpets1_0"

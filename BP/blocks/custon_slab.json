@@ -64,9 +64,7 @@
 							16
 						]
 					},
-					"minecraft:custom_components": [
-						//"adk-lib:before_on_player_place_double_slab"
-					],
+					"minecraft:custom_components": [],
 					"minecraft:selection_box": {
 						"origin": [
 							-8,
@@ -96,9 +94,7 @@
 							16
 						]
 					},
-					"minecraft:custom_components": [
-						//"adk-lib:before_on_player_place_double_slab"
-					],
+					"minecraft:custom_components": [],
 					"minecraft:selection_box": {
 						"origin": [
 							-8,
@@ -115,9 +111,7 @@
 				"condition": "q.block_state('minecraft:vertical_half') == 'top' && !q.block_state('bridge:is_double')"
 			},
 			{
-				"components": {
-					//"minecraft:loot": "loot_tables/wiki/blocks/honeycomb_bricks_slab.json"
-				},
+				"components": {},
 				"condition": "q.block_state('bridge:is_double')"
 			}
 		]

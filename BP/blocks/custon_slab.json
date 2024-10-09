@@ -22,10 +22,10 @@
 			],
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "blockOre1_0"
+					"texture": "blockCarpets1_0"
 				},
 				"sides": {
-					"texture": "blockOre1_0"
+					"texture": "blockCarpets1_0"
 				}
 			}
 		},

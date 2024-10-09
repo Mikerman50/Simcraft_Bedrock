@@ -425,6 +425,45 @@ tile.bridge:blockTaintedLight_13.name=Light Purple Tainted Light
 tile.bridge:blockTaintedLight_14.name=Orange Tainted Light
 tile.bridge:blockTaintedLight_15.name=White Tainted Light
 
+tile.bridge:BlockTreeLeaves_0.name=Apple Tree Leaves
+tile.bridge:BlockTreeLeaves_1.name=Lemon Tree Leaves
+tile.bridge:BlockTreeLeaves_2.name=Orange Tree Leaves
+tile.bridge:BlockTreeLeaves_3.name=Pear Tree Leaves
+tile.bridge:BlockTreeLeaves1_0.name=Avo Tree Leaves
+tile.bridge:BlockTreeLeaves1_1.name=Banana Tree Leaves
+tile.bridge:BlockTreeLeaves1_2.name=Mango Tree Leaves
+tile.bridge:BlockTreeLeaves1_3.name=Coconut Tree Leaves
+tile.bridge:BlockTreeLeaves2_0.name=Cherry Tree Leaves
+tile.bridge:BlockTreeLeaves2_1.name=Olive Tree Leaves
+tile.bridge:BlockTreeLeaves2_2.name=Plum Tree Leaves
+tile.bridge:BlockTreeLeaves2_3.name=Peach Tree Leaves
+
+tile.bridge:BlockTreeSapling_0.name=Apple Sapling
+tile.bridge:BlockTreeSapling_1.name=Lemon Sapling
+tile.bridge:BlockTreeSapling_2.name=Orange Sapling
+tile.bridge:BlockTreeSapling_3.name=Pear Sapling
+tile.bridge:BlockTreeSapling1_0.name=Avo Sapling
+tile.bridge:BlockTreeSapling1_1.name=Banana Sapling
+tile.bridge:BlockTreeSapling1_2.name=Mango Sapling
+tile.bridge:BlockTreeSapling1_3.name=Coconut Sapling
+tile.bridge:BlockTreeSapling2_0.name=Cherry Sapling
+tile.bridge:BlockTreeSapling2_1.name=Olive Sapling
+tile.bridge:BlockTreeSapling2_2.name=Plum Sapling
+tile.bridge:BlockTreeSapling2_3.name=Peach Sapling
+
+tile.bridge:BlockTreeWood_0.name=Apple Tree Bark
+tile.bridge:BlockTreeWood_1.name=Lemon Tree Bark
+tile.bridge:BlockTreeWood_2.name=Orange Tree Bark
+tile.bridge:BlockTreeWood_3.name=Pear Tree Bark
+tile.bridge:BlockTreeWood_4.name=Avo Tree Bark
+tile.bridge:BlockTreeWood_5.name=Banana Tree Bark
+tile.bridge:BlockTreeWood_6.name=Mango Tree Bark
+tile.bridge:BlockTreeWood_7.name=Choconut Tree Bark
+tile.bridge:BlockTreeWood_8.name=Cherry Tree Bark
+tile.bridge:BlockTreeWood_9.name=Olive Tree Bark
+tile.bridge:BlockTreeWood_10.name=Plum Tree Bark
+tile.bridge:BlockTreeWood_11.name=Peach Tree Bark
+
 
 item.bridge:crown_helmet=Crown Helmet
 item.bridge:crown_chestplate=Crown Chestplate

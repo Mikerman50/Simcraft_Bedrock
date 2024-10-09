@@ -1398,5 +1398,213 @@
 	},
 	"bridge:BlockCarpetTiles_0": {
 		"textures": "blockTaintedLight_15"
+	},
+	"bridge:BlockTreeLeaves_0": {
+		"textures": "blockTreeleaves_0"
+	},
+	"bridge:BlockTreeLeaves_1": {
+		"textures": "blockTreeleaves_1"
+	},
+	"bridge:BlockTreeLeaves_2": {
+		"textures": "blockTreeleaves_2"
+	},
+	"bridge:BlockTreeLeaves_3": {
+		"textures": "blockTreeleaves_3"
+	},
+	"bridge:BlockTreeLeaves1_0": {
+		"textures": "blockTreeleaves1_0"
+	},
+	"bridge:BlockTreeLeaves1_1": {
+		"textures": "blockTreeleaves1_1"
+	},
+	"bridge:BlockTreeLeaves1_2": {
+		"textures": "blockTreeleaves1_2"
+	},
+	"bridge:BlockTreeLeaves1_3": {
+		"textures": "blockTreeleaves1_3"
+	},
+	"bridge:BlockTreeLeaves2_0": {
+		"textures": "blockTreeleaves2_0"
+	},
+	"bridge:BlockTreeLeaves2_1": {
+		"textures": "blockTreeleaves2_1"
+	},
+	"bridge:BlockTreeLeaves2_2": {
+		"textures": "blockTreeleaves2_2"
+	},
+	"bridge:BlockTreeLeaves2_3": {
+		"textures": "blockTreeleaves2_3"
+	},
+	"bridge:BlockTreeSapling_0": {
+		"textures": "BlockTreeSapling_0",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling_1": {
+		"textures": "BlockTreeSapling_1",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling_2": {
+		"textures": "BlockTreeSapling_2",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling_3": {
+		"textures": "BlockTreeSapling_3",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling1_0": {
+		"textures": "BlockTreeSapling1_0",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling1_1": {
+		"textures": "BlockTreeSapling1_1",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling1_2": {
+		"textures": "BlockTreeSapling1_2",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling1_3": {
+		"textures": "BlockTreeSapling1_3",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling2_0": {
+		"textures": "BlockTreeSapling2_0",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling2_1": {
+		"textures": "BlockTreeSapling2_1",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling2_2": {
+		"textures": "BlockTreeSapling2_2",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling2_3": {
+		"textures": "BlockTreeSapling2_3",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling3_0": {
+		"textures": "BlockTreeSapling3_0",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling3_1": {
+		"textures": "BlockTreeSapling3_1",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling3_2": {
+		"textures": "BlockTreeSapling3_2",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeSapling3_3": {
+		"textures": "BlockTreeSapling3_3",
+		"sound": "grass"
+	},
+	"bridge:BlockTreeWood_0": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_0"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_1": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_1"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_2": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_2"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_3": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_3"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_4": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_4"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_5": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_5"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_6": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_6"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_7": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_7"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_8": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_8"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_9": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_9"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_10": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_10"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
+	},
+	"bridge:BlockTreeWood_11": {
+		"textures": {
+			"up": "BlockTreeWood_C",
+			"down": "gardenPot_down",
+			"side": "BlockTreeWood_11"
+		},
+		"brightness_gamma": 1,
+		"sound": "wood"
 	}
 }

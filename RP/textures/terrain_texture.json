@@ -1212,6 +1212,129 @@
 		},
 		"bridge_custon_slab": {
 			"textures": "textures/blocks/crown"
+		},
+		"blockTreeleaves_0": {
+			"textures": "textures/blocks/trees/blocktreeleaves_0"
+		},
+		"blockTreeleaves_1": {
+			"textures": "textures/blocks/trees/blocktreeleaves_1"
+		},
+		"blockTreeleaves_2": {
+			"textures": "textures/blocks/trees/blocktreeleaves_2"
+		},
+		"blockTreeleaves_3": {
+			"textures": "textures/blocks/trees/blocktreeleaves_3"
+		},
+		"blockTreeleaves1_0": {
+			"textures": "textures/blocks/trees/blocktreeleaves1_0"
+		},
+		"blockTreeleaves1_1": {
+			"textures": "textures/blocks/trees/blocktreeleaves1_1"
+		},
+		"blockTreeleaves1_2": {
+			"textures": "textures/blocks/trees/blocktreeleaves1_2"
+		},
+		"blockTreeleaves1_3": {
+			"textures": "textures/blocks/trees/blocktreeleaves1_3"
+		},
+		"blockTreeleaves2_0": {
+			"textures": "textures/blocks/trees/blocktreeleaves2_0"
+		},
+		"blockTreeleaves2_1": {
+			"textures": "textures/blocks/trees/blocktreeleaves2_1"
+		},
+		"blockTreeleaves2_2": {
+			"textures": "textures/blocks/trees/blocktreeleaves2_2"
+		},
+		"blockTreeleaves2_3": {
+			"textures": "textures/blocks/trees/blocktreeleaves2_3"
+		},
+		"BlockTreeSapling_0": {
+			"textures": "textures/blocks/trees/blockTreeSapling_0"
+		},
+		"BlockTreeSapling_1": {
+			"textures": "textures/blocks/trees/blockTreeSapling_1"
+		},
+		"BlockTreeSapling_2": {
+			"textures": "textures/blocks/trees/blockTreeSapling_2"
+		},
+		"BlockTreeSapling_3": {
+			"textures": "textures/blocks/trees/blockTreeSapling_3"
+		},
+		"BlockTreeSapling1_0": {
+			"textures": "textures/blocks/trees/blockTreeSapling1_0"
+		},
+		"BlockTreeSapling1_1": {
+			"textures": "textures/blocks/trees/blockTreeSapling1_1"
+		},
+		"BlockTreeSapling1_2": {
+			"textures": "textures/blocks/trees/blockTreeSapling1_2"
+		},
+		"BlockTreeSapling1_3": {
+			"textures": "textures/blocks/trees/blockTreeSapling1_3"
+		},
+		"BlockTreeSapling2_0": {
+			"textures": "textures/blocks/trees/blockTreeSapling2_0"
+		},
+		"BlockTreeSapling2_1": {
+			"textures": "textures/blocks/trees/blockTreeSapling2_1"
+		},
+		"BlockTreeSapling2_2": {
+			"textures": "textures/blocks/trees/blockTreeSapling2_2"
+		},
+		"BlockTreeSapling2_3": {
+			"textures": "textures/blocks/trees/blockTreeSapling2_3"
+		},
+		"BlockTreeSapling3_0": {
+			"textures": "textures/blocks/trees/blockTreeSapling3_0"
+		},
+		"BlockTreeSapling3_1": {
+			"textures": "textures/blocks/trees/blockTreeSapling3_1"
+		},
+		"BlockTreeSapling3_2": {
+			"textures": "textures/blocks/trees/blockTreeSapling3_2"
+		},
+		"BlockTreeSapling3_3": {
+			"textures": "textures/blocks/trees/blockTreeSapling3_3"
+		},
+		"BlockTreeWood_0": {
+			"textures": "textures/blocks/trees/blocktreewood_0"
+		},
+		"BlockTreeWood_1": {
+			"textures": "textures/blocks/trees/blocktreewood_1"
+		},
+		"BlockTreeWood_2": {
+			"textures": "textures/blocks/trees/blocktreewood_2"
+		},
+		"BlockTreeWood_3": {
+			"textures": "textures/blocks/trees/blocktreewood_3"
+		},
+		"BlockTreeWood_4": {
+			"textures": "textures/blocks/trees/blocktreewood_4"
+		},
+		"BlockTreeWood_5": {
+			"textures": "textures/blocks/trees/blocktreewood_5"
+		},
+		"BlockTreeWood_6": {
+			"textures": "textures/blocks/trees/blocktreewood_6"
+		},
+		"BlockTreeWood_7": {
+			"textures": "textures/blocks/trees/blocktreewood_7"
+		},
+		"BlockTreeWood_8": {
+			"textures": "textures/blocks/trees/blocktreewood_8"
+		},
+		"BlockTreeWood_9": {
+			"textures": "textures/blocks/trees/blocktreewood_9"
+		},
+		"BlockTreeWood_10": {
+			"textures": "textures/blocks/trees/blocktreewood_10"
+		},
+		"BlockTreeWood_11": {
+			"textures": "textures/blocks/trees/blocktreewood_11"
+		},
+		"BlockTreeWood_C": {
+			"textures": "textures/blocks/trees/blocktreewood_c"
 		}
 	}
 }

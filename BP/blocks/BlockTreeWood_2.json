@@ -1,0 +1,17 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bridge:BlockTreeWood_2",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.woods"
+			}
+		},
+		"components": {
+			"minecraft:geometry": {
+				"identifier": "minecraft:geometry.full_block"
+			}
+		}
+	}
+}

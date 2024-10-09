@@ -1,0 +1,70 @@
+{
+	"format_version": "1.20.20",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bridge:BlockTreeSapling1_3",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.sapling"
+			}
+		},
+		"components": {
+			"tag:plant": {},
+			"minecraft:collision_box": false,
+			"minecraft:selection_box": {
+				"origin": [
+					-3,
+					0,
+					-3
+				],
+				"size": [
+					6,
+					14,
+					6
+				]
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"up"
+						],
+						"block_filter": [
+							"minecraft:grass_block",
+							"bridge:blockGardenPot_0",
+							"bridge:blockGardenPot_1",
+							"bridge:blockGardenPot_2",
+							"bridge:blockGardenPot_3",
+							"bridge:blockGardenPot_4",
+							"bridge:blockGardenPot_5",
+							"bridge:blockGardenPot_6",
+							"bridge:blockGardenPot_7",
+							"bridge:blockGardenPot_8",
+							"bridge:blockGardenPot_9",
+							"bridge:blockGardenPot_10",
+							"bridge:blockGardenPot_11",
+							"bridge:blockGardenPot_12",
+							"bridge:blockGardenPot_13",
+							"bridge:blockGardenPot_14",
+							"bridge:blockGardenPot_15",
+							"minecraft:dirt"
+						]
+					}
+				]
+			},
+			"minecraft:destructible_by_mining": false,
+			"minecraft:destructible_by_explosion": false,
+			"minecraft:geometry": "geometry.flower",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "BlockTreeSapling1_3",
+					"render_method": "alpha_test",
+					"face_dimming": false,
+					"ambient_occlusion": false
+				}
+			},
+			"minecraft:light_dampening": 0,
+			"minecraft:map_color": "#0d471d"
+		}
+	}
+}

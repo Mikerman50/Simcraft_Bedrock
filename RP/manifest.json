@@ -2,8 +2,10 @@
 	"format_version": 2,
 	"metadata": {
 		"authors": [
-			"Mikerman50."
-		]
+			"Mikerman50"
+		],
+		"license": "Simcraft Mod © 2013 by Mikerman50 is licensed under CC BY-NC-ND 4.0 ",
+		"url": "https://www.planetminecraft.com/member/simcraftmod/"
 	},
 	"header": {
 		"name": "Simcraft",
@@ -17,7 +19,7 @@
 		"version": [
 			1,
 			0,
-			86
+			96
 		]
 	},
 	"modules": [
@@ -37,7 +39,7 @@
 			"version": [
 				1,
 				0,
-				86
+				96
 			]
 		}
 	]

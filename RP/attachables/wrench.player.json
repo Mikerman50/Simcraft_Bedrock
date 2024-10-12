@@ -1,0 +1,34 @@
+{
+    "format_version": "1.20.30",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "bridge:wrench",
+            "item": {
+                "briddge:wrench": "query.is_owner_identifier_any('minecraft:player')"
+            },
+            "materials": {
+                "default": "entity",
+                "enchanted": "entity_alphatest_glint"
+            },
+            "textures": {
+                "default": "textures/items/item.currencyCoin1"
+            },
+            "geometry": {
+                "default": "geometry.wrench"
+            },
+            "animations": {
+                "hold_first_person": "animation.humanoid.holding_brush"
+            },
+            "scripts": {
+                "animate": [
+                    {
+                        "hold_first_person": "context.is_first_person == 1.0"
+                    }
+                ]
+            },
+            "render_controllers": [
+                "controller.render.item_default"
+            ]
+        }
+    }
+}

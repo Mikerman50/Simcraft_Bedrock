@@ -2,8 +2,32 @@
 	"resource_pack_name": "Simcraft",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"bridge_crown_helmet": {
-			"textures": "textures/items/crown_helmet"
+		"currencycoin1": {
+			"textures": "textures/items/currencyCoin1"
+		},
+		"currencycoin5": {
+			"textures": "textures/items/currencyCoin5"
+		},
+		"currencycoin10": {
+			"textures": "textures/items/currencyCoin10"
+		},
+		"currencycoin20": {
+			"textures": "textures/items/currencyCoin20"
+		},
+		"currencycoin50": {
+			"textures": "textures/items/currencyCoin50"
+		},
+		"currencynote100": {
+			"textures": "textures/items/currencyNote100"
+		},
+		"currencynote250": {
+			"textures": "textures/items/currencyNote250"
+		},
+		"currencynote500": {
+			"textures": "textures/items/currencyNote500"
+		},
+		"currencynote1000": {
+			"textures": "textures/items/currencyNote1000"
 		}
 	}
 }

@@ -464,8 +464,8 @@ tile.bridge:BlockTreeWood_9.name=Olive Tree Bark
 tile.bridge:BlockTreeWood_10.name=Plum Tree Bark
 tile.bridge:BlockTreeWood_11.name=Peach Tree Bark
 
-
-item.bridge:crown_helmet=Crown Helmet
-item.bridge:crown_chestplate=Crown Chestplate
-item.bridge:crown_leggings=Crown Leggings
-item.bridge:crown_boots=Crown Boots
+item.bridge:currencycoin1=Currency Coin 1
+item.bridge:currencycoin5=Currency Coin 5
+item.bridge:currencycoin10=Currency Coin 10
+item.bridge:currencycoin20=Currency Coin 20
+item.bridge:currencycoin50=Currency Coin 50

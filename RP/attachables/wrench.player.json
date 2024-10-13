@@ -11,7 +11,7 @@
                 "enchanted": "entity_alphatest_glint"
             },
             "textures": {
-                "default": "textures/items/item.currencyCoin1"
+                "default": "textures/items/currencyCoin1"
             },
             "geometry": {
                 "default": "geometry.wrench"

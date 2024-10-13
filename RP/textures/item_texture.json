@@ -28,6 +28,15 @@
 		},
 		"currencynote1000": {
 			"textures": "textures/items/currencyNote1000"
+		},
+		"zimbabwe5": {
+			"textures": "textures/items/zimbabwe5"
+		},
+		"tripleunite1642": {
+			"textures": "textures/items/tripleunite1642"
+		},
+		"canada5cents1921": {
+			"textures": "textures/items/canada5cents1921"
 		}
 	}
 }

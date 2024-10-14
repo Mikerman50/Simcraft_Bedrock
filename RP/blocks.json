@@ -1610,5 +1610,9 @@
 	"bridge:CashRegister": {
 		"textures": "Machines",
 		"sound": "metal"
+	},
+	"bridge:CoinPress": {
+		"textures": "Machines",
+		"sound": "metal"
 	}
 }

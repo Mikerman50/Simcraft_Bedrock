@@ -2,7 +2,7 @@
 	"format_version": "1.21.20",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bridge:CashRegister",
+			"identifier": "bridge:CoinPress",
 			"traits": {
 				"minecraft:placement_direction": {
 					"enabled_states": [
@@ -103,7 +103,7 @@
 					"bottom": "q.block_state('minecraft:vertical_half') == 'bottom' || q.block_state('bridge:is_double')",
 					"top": "q.block_state('minecraft:vertical_half') == 'top' || q.block_state('bridge:is_double')"
 				},
-				"identifier": "geometry.cashregister"
+				"identifier": "geometry.coinpress"
 			},
 			"minecraft:map_color": [
 				229,

@@ -1335,6 +1335,9 @@
 		},
 		"BlockTreeWood_C": {
 			"textures": "textures/blocks/trees/blocktreewood_c"
+		},
+		"Machines": {
+			"textures": "textures/models/Machines"
 		}
 	}
 }

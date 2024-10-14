@@ -1606,5 +1606,9 @@
 		},
 		"brightness_gamma": 1,
 		"sound": "wood"
+	},
+	"bridge:CashRegister": {
+		"textures": "Machines",
+		"sound": "metal"
 	}
 }

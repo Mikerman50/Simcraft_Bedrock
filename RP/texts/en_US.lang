@@ -463,6 +463,9 @@ tile.bridge:BlockTreeWood_8.name=Cherry Tree Bark
 tile.bridge:BlockTreeWood_9.name=Olive Tree Bark
 tile.bridge:BlockTreeWood_10.name=Plum Tree Bark
 tile.bridge:BlockTreeWood_11.name=Peach Tree Bark
+tile.bridge:BlockTreeWood_11.name=Peach Tree Bark
+
+tile.bridge:CashRegister.name=Cash Register
 
 item.bridge:currencycoin1=Currency Coin 1
 item.bridge:currencycoin5=Currency Coin 5

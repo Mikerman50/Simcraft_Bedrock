@@ -1,0 +1,25 @@
+{
+    "format_version": "1.17.40",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "bridge:currency_coin_1"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "   ",
+            " # ",
+            "   "
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:gold_nugget"
+            }
+        },
+        "result": {
+            "item": "bridge:currencycoin1",
+            "data": 1
+        }
+    }
+}

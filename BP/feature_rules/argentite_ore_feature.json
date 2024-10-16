@@ -1,0 +1,54 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:feature_rules": {
+		"description": {
+			"identifier": "bridge:argentite_ore_feature",
+			"places_feature": "argentite_ore_feature"
+		},
+		"conditions": {
+			"placement_pass": "underground_pass",
+			"minecraft:biome_filter": [
+				// Scatter the ore throughout the Overworld
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "overworld"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "overworld_generation"
+						}
+					]
+				}
+			]
+		},
+		"distribution": {
+			"iterations": 100,
+			"coordinate_eval_order": "zyx",
+			"x": {
+				"distribution": "uniform",
+				"extent": [
+					55,
+					64
+				]
+			},
+			"y": {
+				"distribution": "uniform",
+				"extent": [
+					55,
+					64
+				]
+			},
+			"z": {
+				"distribution": "uniform",
+				"extent": [
+					55,
+					64
+				]
+			}
+		}
+	}
+}

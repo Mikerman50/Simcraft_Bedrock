@@ -2,22 +2,43 @@
 	"format_version": "1.21.20",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bridge:blockTaintedLight_0"
-		}
-	},
-	"components": {
-		"minecraft:light_dampening": 0,
-		"minecraft:light_emission": 10,
-		"minecraft:tick": {
-			"interval_range": [
-				10,
-				20
-			],
-			"looping": true
+			"identifier": "bridge:blockTaintedLight_0",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name.glass"
+			},
+			"states": {
+				"lamp:is_lit": [
+					true,
+					false
+				]
+			}
 		},
-		"minecraft:material_instances": {
-			"*": {
-				"render_method": "blend"
+		"permutations": [
+			{
+				"condition": "query.block_state('lamp:is_lit') == true",
+				"components": {
+					"minecraft:light_emission": 15
+				}
+			},
+			{
+				"condition": "query.block_state('lamp:is_lit') == false",
+				"components": {
+					"minecraft:light_emission": 0
+				}
+			}
+		],
+		"components": {
+			"minecraft:material_instances": {
+				"*": {
+					"minecraft:material_instances": {
+						"*": {
+							"render_method": "blend"
+						},
+						"minecraft:friction": 0.6,
+						"minecraft:map_color": "#00ff00"
+					}
+				}
 			}
 		}
 	}

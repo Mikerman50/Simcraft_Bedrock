@@ -33,7 +33,7 @@
 			"identifier": "bridge:custon_slab",
 			"menu_category": {
 				"category": "construction",
-				"group": "itemGroup.name."
+				"group": "itemGroup.name.slab"
 			},
 			"states": {
 				"bridge:is_double": [

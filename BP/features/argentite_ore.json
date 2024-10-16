@@ -1,1 +1,54 @@
-{"format_version":"1.13.0","minecraft:ore_feature":{"description":{"identifier":"bridge:argentite_ore"},"count":12,"replace_rules":[{"places_block":"brige:blockore1_0","may_replace":["minecraft:stone"]},{"places_block":"bridge:blockore1_0","may_replace":["minecraft:granite"]},{"places_block":"bridge:blockore1_0","may_replace":["minecraft:andesite"]}]}}
+{
+    "format_version": "1.13.0",
+    "minecraft:ore_feature": {
+        "description": {
+            "identifier": "argentite_ore_feature"
+        },
+        "count": 8,
+        "places_block": "bridge:blockore1_0",
+        "may_replace": [
+            {
+                "name": "minecraft:stone",
+                "states": {
+                    "stone_type": "andesite"
+                }
+            },
+            {
+                "name": "minecraft:stone",
+                "states": {
+                    "stone_type": "andesite_smooth"
+                }
+            },
+            {
+                "name": "minecraft:stone",
+                "states": {
+                    "stone_type": "diorite"
+                }
+            },
+            {
+                "name": "minecraft:stone",
+                "states": {
+                    "stone_type": "diorite_smooth"
+                }
+            },
+            {
+                "name": "minecraft:stone",
+                "states": {
+                    "stone_type": "granite"
+                }
+            },
+            {
+                "name": "minecraft:stone",
+                "states": {
+                    "stone_type": "granite_smooth"
+                }
+            },
+            {
+                "name": "minecraft:stone",
+                "states": {
+                    "stone_type": "stone"
+                }
+            }
+        ]
+    }
+}

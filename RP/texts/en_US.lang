@@ -467,6 +467,8 @@ tile.bridge:BlockTreeWood_11.name=Peach Tree Bark
 
 tile.bridge:CashRegister.name=Cash Register
 tile.bridge:CoinPress.name=CoinPress
+tile.bridge:GenT100.name=GenT100
+tile.bridge:GenT500.name=GenT500
 
 item.bridge:currencycoin1=Currency Coin 1
 item.bridge:currencycoin5=Currency Coin 5

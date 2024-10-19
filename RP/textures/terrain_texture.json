@@ -1338,6 +1338,12 @@
 		},
 		"Machines": {
 			"textures": "textures/models/Machines"
+		},
+		"GenT100": {
+			"textures": "textures/models/GenT100"
+		},
+		"GenT500": {
+			"textures": "textures/models/GenT500"
 		}
 	}
 }

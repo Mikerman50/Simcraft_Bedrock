@@ -1615,6 +1615,14 @@
 		"textures": "Machines",
 		"sound": "metal"
 	},
+	"bridge:GenT100": {
+		"textures": "Machines",
+		"sound": "metal"
+	},
+	"bridge:GenT500": {
+		"textures": "Machines",
+		"sound": "metal"
+	},
 	"bridge:blockSlabBricks_0": {
 		"textures": "blockBricks_0"
 	},

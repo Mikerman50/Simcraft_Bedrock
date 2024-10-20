@@ -1344,6 +1344,9 @@
 		},
 		"GenT500": {
 			"textures": "textures/models/GenT500"
+		},
+		"Furniture": {
+			"textures": "textures/models/Furniture"
 		}
 	}
 }

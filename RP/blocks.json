@@ -1623,6 +1623,22 @@
 		"textures": "Machines",
 		"sound": "metal"
 	},
+	"bridge:WalnutChair": {
+		"textures": "Furniture",
+		"sound": "wood"
+	},
+	"bridge:OakChair": {
+		"textures": "Furniture",
+		"sound": "wood"
+	},
+	"bridge:WhiteAshChair": {
+		"textures": "Furniture",
+		"sound": "wood"
+	},
+	"bridge:AlderChair": {
+		"textures": "Furniture",
+		"sound": "wood"
+	},
 	"bridge:blockSlabBricks_0": {
 		"textures": "blockBricks_0"
 	},

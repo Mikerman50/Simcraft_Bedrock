@@ -1347,6 +1347,96 @@
 		},
 		"Furniture": {
 			"textures": "textures/models/Furniture"
+		},
+		"blockRooftop_0": {
+			"textures": "textures/blocks/rooftop/blockRooftop_0"
+		},
+		"blockRooftop_1": {
+			"textures": "textures/blocks/rooftop/blockRooftop_1"
+		},
+		"blockRooftop_2": {
+			"textures": "textures/blocks/rooftop/blockRooftop_2"
+		},
+		"blockRooftop_3": {
+			"textures": "textures/blocks/rooftop/blockRooftop_3"
+		},
+		"blockRooftop_4": {
+			"textures": "textures/blocks/rooftop/blockRooftop_4"
+		},
+		"blockRooftop_5": {
+			"textures": "textures/blocks/rooftop/blockRooftop_5"
+		},
+		"blockRooftop_6": {
+			"textures": "textures/blocks/rooftop/blockRooftop_6"
+		},
+		"blockRooftop_7": {
+			"textures": "textures/blocks/rooftop/blockRooftop_7"
+		},
+		"blockRooftop_8": {
+			"textures": "textures/blocks/rooftop/blockRooftop_8"
+		},
+		"blockRooftop_9": {
+			"textures": "textures/blocks/rooftop/blockRooftop_9"
+		},
+		"blockRooftop_10": {
+			"textures": "textures/blocks/rooftop/blockRooftop_10"
+		},
+		"blockRooftop_11": {
+			"textures": "textures/blocks/rooftop/blockRooftop_11"
+		},
+		"blockRooftop_12": {
+			"textures": "textures/blocks/rooftop/blockRooftop_12"
+		},
+		"blockRooftop_13": {
+			"textures": "textures/blocks/rooftop/blockRooftop_13"
+		},
+		"blockRooftop_14": {
+			"textures": "textures/blocks/rooftop/blockRooftop_14"
+		},
+		"blockRooftop_15": {
+			"textures": "textures/blocks/rooftop/blockRooftop_15"
+		},
+		"blockRooftop_16": {
+			"textures": "textures/blocks/rooftop/blockRooftop_16"
+		},
+		"blockRooftop_17": {
+			"textures": "textures/blocks/rooftop/blockRooftop_17"
+		},
+		"blockRooftop_18": {
+			"textures": "textures/blocks/rooftop/blockRooftop_18"
+		},
+		"blockRooftop_19": {
+			"textures": "textures/blocks/rooftop/blockRooftop_19"
+		},
+		"blockRooftop_20": {
+			"textures": "textures/blocks/rooftop/blockRooftop_20"
+		},
+		"blockRooftop_21": {
+			"textures": "textures/blocks/rooftop/blockRooftop_21"
+		},
+		"blockRooftop_22": {
+			"textures": "textures/blocks/rooftop/blockRooftop_22"
+		},
+		"blockRooftop_23": {
+			"textures": "textures/blocks/rooftop/blockRooftop_23"
+		},
+		"blockRooftop_24": {
+			"textures": "textures/blocks/rooftop/blockRooftop_24"
+		},
+		"blockRooftop_25": {
+			"textures": "textures/blocks/rooftop/blockRooftop_25"
+		},
+		"blockRooftop_26": {
+			"textures": "textures/blocks/rooftop/blockRooftop_26"
+		},
+		"blockRooftop_27": {
+			"textures": "textures/blocks/rooftop/blockRooftop_27"
+		},
+		"blockRooftop_28": {
+			"textures": "textures/blocks/rooftop/blockRooftop_28"
+		},
+		"blockRooftop_29": {
+			"textures": "textures/blocks/rooftop/blockRooftop_29"
 		}
 	}
 }

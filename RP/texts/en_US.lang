@@ -470,6 +470,14 @@ tile.bridge:CoinPress.name=CoinPress
 tile.bridge:GenT100.name=GenT100
 tile.bridge:GenT500.name=GenT500
 
+tile.bridge:AlderChair.name=Alder Chair
+tile.bridge:WalnutChair.name=Walnut Chair
+tile.bridge:WhiteAshChair.name=White Ash Chair
+tile.bridge:OakChair.name=Oak Chair
+tile.bridge:LoungeChairRed.name=Red Lounge Chair
+tile.bridge:LoungeChairBlue.name=Blue Lounge Chair
+tile.bridge:LoungeChairBlack.name=Black Lounge Chair
+
 item.bridge:currencycoin1=Currency Coin 1
 item.bridge:currencycoin5=Currency Coin 5
 item.bridge:currencycoin10=Currency Coin 10

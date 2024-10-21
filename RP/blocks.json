@@ -1639,7 +1639,15 @@
 		"textures": "Furniture",
 		"sound": "wood"
 	},
-	"bridge:LoungeChair": {
+	"bridge:LoungeChairRed": {
+		"textures": "Furniture",
+		"sound": "wood"
+	},
+	"bridge:LoungeChairBlue": {
+		"textures": "Furniture",
+		"sound": "wood"
+	},
+	"bridge:LoungeChairBlack": {
 		"textures": "Furniture",
 		"sound": "wood"
 	},
@@ -2154,5 +2162,157 @@
 	"bridge:blockSlabWoods1_15": {
 		"textures": "blockWoods1_15",
 		"sound": "wood"
+	},
+	"bridge:blockRooftop_0_ICU": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_ICD": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_SF": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_SC": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_QCU": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_QCD": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_P": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_LRC": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_CU": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_CD": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_AU": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_AD": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_0_3SM": {
+		"textures": "blockRooftop_0",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_ICU": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_ICD": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_SF": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_SC": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_QCU": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_QCD": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_P": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_LRC": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_CU": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_CD": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_AU": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_AD": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_1_3SM": {
+		"textures": "blockRooftop_1",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_ICD": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_SF": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_SC": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_QCU": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_QCD": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_P": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_LRC": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_CU": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_CD": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_AU": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_AD": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
+	},
+	"bridge:blockRooftop_2_3SM": {
+		"textures": "blockRooftop_2",
+		"sound": "stone"
 	}
 }

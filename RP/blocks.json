@@ -1639,6 +1639,10 @@
 		"textures": "Furniture",
 		"sound": "wood"
 	},
+	"bridge:LoungeChair": {
+		"textures": "Furniture",
+		"sound": "wood"
+	},
 	"bridge:blockSlabBricks_0": {
 		"textures": "blockBricks_0"
 	},

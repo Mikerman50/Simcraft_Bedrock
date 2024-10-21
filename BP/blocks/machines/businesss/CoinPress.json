@@ -99,12 +99,12 @@
 				]
 			},
 			"minecraft:crafting_table": {
-				"table_name": "Coinpress",
+				"table_name": "coin_press",
 				"crafting_tags": [
-					"coin_press",
 					"coins"
 				]
 			},
+			"minecraft:display_name": "Coin Press",
 			"minecraft:geometry": {
 				"bone_visibility": {
 					"bottom": "q.block_state('minecraft:vertical_half') == 'bottom' || q.block_state('bridge:is_double')",

@@ -19,7 +19,7 @@
 			"minecraft:hover_text_color": "minecoin_gold",
 			"minecraft:tags": {
 				"tags": [
-					"simcraft_coins"
+					"coin_press"
 				]
 			},
 			"minecraft:use_animation": {

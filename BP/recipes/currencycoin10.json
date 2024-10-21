@@ -1,0 +1,22 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:currencycoin10"
+		},
+		"tags": [
+			"coin_press",
+			"coins"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:gold_nugget",
+				"count": 10
+			}
+		],
+		"result": {
+			"item": "bridge:currencycoin10",
+			"count": 1
+		}
+	}
+}

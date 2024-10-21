@@ -1,25 +1,22 @@
 {
-    "format_version": "1.17.40",
-    "minecraft:recipe_shaped": {
+    "format_version": "1.20.10",
+    "minecraft:recipe_shapeless": {
         "description": {
-            "identifier": "bridge:currency_coin_1"
+            "identifier": "bridge:currencycoin1"
         },
         "tags": [
-            "crafting_table"
+            "coin_press",
+            "coins"
         ],
-        "pattern": [
-            "   ",
-            " # ",
-            "   "
-        ],
-        "key": {
-            "#": {
-                "item": "minecraft:gold_nugget"
+        "ingredients": [
+            {
+                "item": "minecraft:gold_nugget",
+                "count": 1
             }
-        },
+        ],
         "result": {
             "item": "bridge:currencycoin1",
-            "data": 1
+            "count": 1
         }
     }
 }

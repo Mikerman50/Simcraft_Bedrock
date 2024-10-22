@@ -9,7 +9,7 @@
 					"enabled_states": [
 						"minecraft:cardinal_direction"
 					],
-					"y_rotation_offset": 0
+					"y_rotation_offset": 90
 				}
 			},
 			"menu_category": {

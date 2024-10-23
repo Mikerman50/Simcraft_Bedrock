@@ -2,7 +2,7 @@
 	"format_version": "1.21.20",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bridge:blockRooftop_1_QCU",
+			"identifier": "bridge:blockRooftop_4_SC",
 			"is_summonable": true,
 			"traits": {
 				"minecraft:placement_direction": {
@@ -100,7 +100,7 @@
 				]
 			},
 			"minecraft:geometry": {
-				"identifier": "geometry.quatercornerup"
+				"identifier": "geometry.slopeceiling"
 			},
 			"minecraft:map_color": [
 				229,
@@ -109,10 +109,10 @@
 			],
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "blockRooftop_1"
+					"texture": "blockRooftop_4"
 				},
 				"sides": {
-					"texture": "blockRooftop_1"
+					"texture": "blockRooftop_4"
 				}
 			}
 		}

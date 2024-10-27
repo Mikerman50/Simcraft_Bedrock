@@ -8,3 +8,5 @@ builds/dist
 builds/Simcraft_Bedrock.mcaddon
 builds/Simcraft_Bedrock_backup.mcaddon
 builds/Simcraft_Bedrock.brproject
+BP/blocks/Rooftops/filelist.txt
+BP/blocks/Rooftops/files.bat

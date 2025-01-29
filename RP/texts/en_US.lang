@@ -1,4 +1,4 @@
-tile.bridge:blockore1_0.name=Argentite Ore
+	tile.bridge:blockore1_0.name=Argentite Ore
 tile.bridge:blockore1_1.name=Barite Ore
 tile.bridge:blockore1_2.name=Bauxite Ore
 tile.bridge:blockore1_3.name=Beryl Ore
@@ -912,3 +912,5 @@ item.bridge:currencynote1000=Currency Note 1000
 item.bridge:zimbabwe5=Zimbabwe 5
 item.bridge:tripleunite1642=Triple Unite 1642
 item.bridge:canada5cents1921=Canadian 5 Cents 1921
+
+item.bridge.lemonfruit=Lemon

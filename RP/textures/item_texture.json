@@ -37,6 +37,42 @@
 		},
 		"canada5cents1921": {
 			"textures": "textures/items/canada5cents1921"
+		},
+		"bridge_lemonfruit": {
+			"textures": "textures/items/item.lemonfruit"
+		},
+		"bridge_orangefruit": {
+			"textures": "textures/items/item.orangefruit"
+		},
+		"bridge_pearfruit": {
+			"textures": "textures/items/item.pearfruit"
+		},
+		"bridge_avofruit": {
+			"textures": "textures/items/item.avofruit"
+		},
+		"bridge_bananafruit": {
+			"textures": "textures/items/item.bananafruit"
+		},
+		"bridge_mangofruit": {
+			"textures": "textures/items/item.mangofruit"
+		},
+		"bridge_coconutfruit": {
+			"textures": "textures/items/item.coconutfruit"
+		},
+		"bridge_cherryfruit": {
+			"textures": "textures/items/item.cherryfruit"
+		},
+		"bridge_olivefruit": {
+			"textures": "textures/items/item.olivefruit"
+		},
+		"bridge_plumfruit": {
+			"textures": "textures/items/item.plumfruit"
+		},
+		"bridge_peachfruit": {
+			"textures": "textures/items/item.peachfruit"
+		},
+		"bridge_soilfertilizer": {
+			"textures": "textures/items/item.soilfertilizer"
 		}
 	}
 }

@@ -2,7 +2,7 @@
 	"format_version": "1.21.20",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bridge:AlderChair",
+			"identifier": "bridge:chair_AlderChair",
 			"is_summonable": true,
 			"traits": {
 				"minecraft:placement_direction": {

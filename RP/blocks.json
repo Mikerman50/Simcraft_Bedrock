@@ -1623,33 +1623,37 @@
 		"textures": "Machines",
 		"sound": "metal"
 	},
-	"bridge:WalnutChair": {
+	"bridge:chair_WalnutChair": {
 		"textures": "Furniture",
 		"sound": "wood"
 	},
-	"bridge:OakChair": {
+	"bridge:chair_OakChair": {
 		"textures": "Furniture",
 		"sound": "wood"
 	},
-	"bridge:WhiteAshChair": {
+	"bridge:chair_WhiteAshChair": {
 		"textures": "Furniture",
 		"sound": "wood"
 	},
-	"bridge:AlderChair": {
+	"bridge:chair_AlderChair": {
 		"textures": "Furniture",
 		"sound": "wood"
 	},
-	"bridge:LoungeChairRed": {
+	"bridge:chair_LoungeChairRed": {
 		"textures": "Furniture",
 		"sound": "wood"
 	},
-	"bridge:LoungeChairBlue": {
+	"bridge:chair_LoungeChairBlue": {
 		"textures": "Furniture",
 		"sound": "wood"
 	},
-	"bridge:LoungeChairBlack": {
+	"bridge:chair_LoungeChairBlack": {
 		"textures": "Furniture",
 		"sound": "wood"
+	},
+	"bridge:bridge:Fountain1": {
+		"textures": "Furniture",
+		"sound": "stone"
 	},
 	"bridge:blockSlabBricks_0": {
 		"textures": "blockBricks_0"

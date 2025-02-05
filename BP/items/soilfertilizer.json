@@ -19,11 +19,11 @@
 			"minecraft:hover_text_color": "minecoin_gold",
 			"minecraft:tags": {
 				"tags": [
-					"coin_press"
+					"sc_fruits"
 				]
 			},
 			"minecraft:use_animation": {
-				"value": "spyglass"
+				"value": "block"
 			},
 			"minecraft:wearable": {
 				"protection": 10,

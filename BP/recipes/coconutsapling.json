@@ -1,0 +1,26 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:coconutsapling"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#P#",
+			"###"
+		],
+		"key": {
+			"P": {
+				"item": "bridge:coconutfruit"
+			},
+			"#": {
+				"item": "minecraft:dirt"
+			}
+		},
+		"result": {
+			"item": "bridge:BlockTreeSapling1_3"
+		}
+	}
+}

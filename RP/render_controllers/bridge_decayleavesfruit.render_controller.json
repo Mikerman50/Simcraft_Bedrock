@@ -1,0 +1,28 @@
+{
+    "format_version": "1.20.0", // Or your appropriate format version
+    "render_controller": {
+        "geometry": "geometry.item_no_transform", // Use the default item geometry for inventory/held rendering
+        "materials": {
+            "default": "self" // Use the texture from the item definition
+        },
+        "textures": {
+            "0": "texture.bridge_decayleavesfruit" // Alias for your texture
+        },
+        "variables": {
+            "texture_size": [
+                16,
+                16
+            ] // Specify the *intended* display size (16x16)
+        },
+        "render_layers": [
+            {
+                "type": "item",
+                "texture": "0",
+                "size": [
+                    "variable.texture_size[0]",
+                    "variable.texture_size[1]"
+                ]
+            }
+        ]
+    }
+}

@@ -16,7 +16,7 @@
 			"minecraft:hover_text_color": "minecoin_gold",
 			"minecraft:tags": {
 				"tags": [
-					"simcraft_coins"
+					"sc_fruits"
 				]
 			},
 			"minecraft:use_animation": {

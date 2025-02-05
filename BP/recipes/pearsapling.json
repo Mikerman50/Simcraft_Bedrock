@@ -1,0 +1,26 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:pearsapling"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#P#",
+			"###"
+		],
+		"key": {
+			"P": {
+				"item": "bridge:pearfruit"
+			},
+			"#": {
+				"item": "minecraft:dirt"
+			}
+		},
+		"result": {
+			"item": "bridge:BlockTreeSapling_3"
+		}
+	}
+}

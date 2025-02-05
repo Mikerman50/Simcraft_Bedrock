@@ -1,4 +1,4 @@
-{
+	{
 	"format_version": "1.20.80",
 	"minecraft:item": {
 		"description": {
@@ -10,6 +10,11 @@
 		"components": {
 			"geometry": {
 				"default": "geometry.wrench"
+			},
+			"minecraft:tags": {
+				"tags": [
+					"sc_fruits"
+				]
 			},
 			"minecraft:icon": "bridge_peachfruit",
 			"minecraft:use_modifiers": {

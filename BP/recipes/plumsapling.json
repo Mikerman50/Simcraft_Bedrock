@@ -1,0 +1,26 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:plumsapling"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#P#",
+			"###"
+		],
+		"key": {
+			"P": {
+				"item": "bridge:plumfruit"
+			},
+			"#": {
+				"item": "minecraft:dirt"
+			}
+		},
+		"result": {
+			"item": "bridge:BlockTreeSapling2_2"
+		}
+	}
+}

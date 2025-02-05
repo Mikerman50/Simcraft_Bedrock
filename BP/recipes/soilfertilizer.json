@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:soilfertilizer"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#P#",
+			"###",
+			"DDD"
+		],
+		"key": {
+			"P": {
+				"item": "bridge:peachfruit"
+			},
+			"#": {
+				"item": "minecraft:dirt"
+			},
+			"D": {
+				"item": "minecraft:dirt"
+			}
+		},
+		"result": {
+			"item": "bridge:decayleavesfruit"
+		}
+	}
+}

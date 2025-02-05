@@ -14,6 +14,13 @@
                     0
                 ]
             },
+            "firstperson_righthand": {
+                "rotation": [
+                    0,
+                    180,
+                    0
+                ]
+            },
             "bones": [
                 {
                     "name": "rightitem",
@@ -34,6 +41,11 @@
                                 8,
                                 0,
                                 8
+                            ],
+                            "scale": [
+                                1,
+                                0,
+                                1
                             ]
                         }
                     ]

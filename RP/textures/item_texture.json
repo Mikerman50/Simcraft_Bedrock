@@ -73,6 +73,9 @@
 		},
 		"bridge_soilfertilizer": {
 			"textures": "textures/items/item.soilfertilizer"
+		},
+		"bridge_decayleavesfruit": {
+			"textures": "textures/items/item.decayleavesfruit"
 		}
 	}
 }

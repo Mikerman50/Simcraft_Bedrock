@@ -11,6 +11,11 @@
 			"geometry": {
 				"default": "geometry.wrench"
 			},
+			"minecraft:tags": {
+				"tags": [
+					"sc_fruits"
+				]
+			},
 			"minecraft:icon": "bridge_plumfruit",
 			"minecraft:use_modifiers": {
 				"use_duration": 1.6

@@ -1,30 +1,29 @@
 {
-	"format_version": "1.20.80",
+	"format_version": "1.21.10",
 	"minecraft:item": {
 		"description": {
 			"identifier": "bridge:avofruit",
 			"menu_category": {
-				"category": "nature"
+				"category": "items"
 			}
 		},
 		"components": {
+			"textures": {
+				"default": "textures/items/item.avofruit"
+			},
 			"geometry": {
 				"default": "geometry.wrench"
 			},
-			"minecraft:tags": {
-				"tags": [
-					"sc_fruits"
-				]
-			},
 			"minecraft:icon": "bridge_avofruit",
-			"minecraft:use_modifiers": {
-				"use_duration": 1.6
-			},
-			"minecraft:food": {
-				"nutrition": 4,
-				"saturation_modifier": 1
-			},
-			"minecraft:use_animation": "eat"
+			"minecraft:max_stack_size": 16,
+			"minecraft:hover_text_color": "minecoin_gold"
 		}
+	},
+	"minecraft:use_animation": {
+		"value": "eat"
+	},
+	"minecraft:wearable": {
+		"protection": 10,
+		"slot": "slot.weapon.offhand"
 	}
 }

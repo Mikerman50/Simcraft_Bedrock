@@ -1437,6 +1437,9 @@
 		},
 		"blockRooftop_29": {
 			"textures": "textures/blocks/rooftop/blockRooftop_29"
+		},
+		"bridge_buffer_chest": {
+			"textures": "textures/blocks/buffer_chest"
 		}
 	}
 }

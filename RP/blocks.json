@@ -628,7 +628,7 @@
 	"bridge:blockmarbleStones_15": {
 		"textures": "blockmarbleStones_15"
 	},
-	"bridge:blockFlowers_0": { //plants
+	"bridge:blockFlowers_0": {
 		"textures": "blockFlowers_0",
 		"sound": "grass"
 	},
